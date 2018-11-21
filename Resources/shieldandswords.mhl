@@ -1,0 +1,95 @@
+-
+Vecch. Ascia Yukumo,0,50,raw,0,yellowsharp
+Ascia Yukumo,0,70,raw,0,yellowsharp
+Ascia Yukumo +,0,90,raw,0,yellowsharp
+Macete Yukumo,0,130,raw,0,greensharp
+Morso di Furogi,0,90,poison 24,0,yellowsharp
+Morso di Furogi +,0,110,poison 28,0,yellowsharp
+Morso grande Furogi,0,140,poison 36,0,greensharp
+Pugnale cacciatore,0,80,raw,0,yellowsharp
+Pugnale cacciatore +,0,110,raw,0,yellowsharp
+Pugnale da assassino,0,140,raw,0,greensharp
+Lama di Barioth,1,130,ice 22,20,greensharp
+Lama di Barioth +,1,150,ice 28,25,greensharp
+Lama gelo Barioth,1,180,ice 35,30,bluesharp
+Lama Zanna rame,0,180,raw,0,whitesharp
+Lama Barioth desert.,0,200,raw,0,whitesharp
+Spada del guerriero,2,180,raw,0,greensharp
+Odissea,2,200,raw,0,bluesharp
+Sciabola ombra,0,130,poison 19,0,greensharp
+Sciabola ombra +,1,150,poison 27,0,greensharp
+Zanna tossica,1,170,poison 39,0,bluesharp
+Daga di Jaggi,1,90,raw,0,yellowsharp
+Daga Idra,1,100,raw,0,greensharp
+Daga Idra +,1,140,raw,0,greensharp
+Daga Mortale,2,170,raw,0,bluesharp
+Daga Baggi Rem,1,110,sleep 19,0,greensharp
+Daga Baggi Rem +,1,150,sleep 22,0,greensharp
+Daga Gran Baggi,2,180,sleep 24,0,bluesharp
+Kriss d'osso,0,90,raw,0,yellowsharp
+Kriss d'osso +,0,120,raw,0,yellowsharp
+Tomahawk Qurupeco,0,120,fire 15,0,greensharp
+Tomahawk Qurupeco +,0,140,fire 18,0,greensharp
+Mannaia Qurupeco,0,190,fire 23,0,bluesharp
+Ascia di Gigginox,2,190,poison 18,0,greensharp
+Ascia tossina Giggi.,2,210,poison 24,0,greensharp
+Spada di Doboruberu.,1,180,defense 8,0,greensharp
+Spada Montagna Dobu.,1,220,defense 10,0,bluesharp
+Scimitarra fiammante,0,150,fire 30,0,greensharp
+Scimitarra Ifrit,0,180,fire 36,0,bluesharp
+Scimitarra dorata,2,200,fire 40,0,bluesharp
+Artiglio di Ludroth,0,100,water 8,0,yellowsharp
+Artiglio Ludroth R.,0,120,water 12,0,greensharp
+Artiglio Ludroth R.+,0,160,water 21,0,greensharp
+Art.Torrente Ludroth,2,190,water 32,0,bluesharp
+Artiglio d'ametista,0,170,water 38,0,bluesharp
+Art. d'ametista duro,0,200,water 40,0,bluesharp
+Lama nascosta,0,130,raw,40,bluesharp
+Lama di mezzanotte,2,180,raw,40,whitesharp
+Artiglio Rex,0,170,raw,-20,bluesharp
+Spada Tigrex,0,220,raw,-20,whitesharp
+Spada Tigrex nero,2,200,raw,-20,bluesharp
+Morso nero Ruggente,2,230,raw,-30,bluesharp
+Mazza Barroth,1,140,raw,-30,greensharp
+Mazza Barroth +,1,160,raw,-30,greensharp
+Mazza Frantumatrice,2,210,raw,-40,bluesharp
+Anima maledetta,2,240,raw,-15,greensharp
+Clava Uragaan,0,180,defense 16,0,yellowsharp
+Clava Uragaan +,0,200,defense 20,0,yellowsharp
+Assaltatore Uragaan,0,230,defense 30,0,greensharp
+Lama Bnahabra,0,70,raw,0,greensharp
+Lama pura Bnahabra,0,100,raw,0,greensharp
+Lama Bnahabra Ghiac.,2,110,ice 8,0,greensharp
+Lama Bnaha. Ghiac. +,3,170,ice 20,0,bluesharp
+Lama Bnahabra Tuono,2,110,thunder 8,0,greensharp
+Lama Bnahabra Tuono+,3,170,thunder 20,0,bluesharp
+Lama Bnahabra Par.,0,90,paralysis 14,0,yellowsharp
+Lama Bnahabra Par. +,1,120,paralysis 20,0,greensharp
+Lama rude Bnaha. Par,1,160,paralysis 22,0,bluesharp
+Sciabola Jhen Mohran,1,150,dragon 15,10,greensharp
+Sciabola sabbie ant.,2,210,dragon 15,10,bluesharp
+Trilama,0,150,raw,5,greensharp
+Trilama +,1,170,raw,10,greensharp
+Trilama Deviljho,1,210,raw,15,bluesharp
+Morso di cristallo,1,130,raw,0,greensharp
+Morso di diamante,2,140,raw,0,greensharp
+Morso ossa di diam.,3,190,raw,15,bluesharp
+Lama arrugginita,0,70,raw,-70,orangesharp
+Lama ossidata,0,70,raw,-70,yellowsharp
+Spada drago sigillo,0,100,dragon 41,0,greensharp
+Spada drago assoluta,0,120,dragon 52,0,greensharp
+Lama antica,0,50,raw,-70,orangesharp
+Lama lucidata,0,50,raw,-70,orangesharp
+Lama santuario,0,80,dragon 72,0,bluesharp
+Zampa di gatto,0,80,paralysis 24,0,yellowsharp
+Zampa di gatto +,0,100,paralysis 28,0,greensharp
+Zampa Nya Nya,0,130,paralysis 30,0,greensharp
+Vera ascia Yukumo,0,160,raw,0,greensharp
+Vera ascia Yukumo +,0,190,raw,0,greensharp
+Ascia cerim. Yukumo,0,210,raw,0,bluesharp
+Spada Re del Tuono,1,160,thunder 25,0,greensharp
+Spada di Jinouga,1,210,thunder 30,0,bluesharp
+Lama tempesta malef.,0,240,water 24,-20,bluesharp
+Ascia anima Ukanlos,0,250,ice 10 defense 15,-30,greensharp
+Spada Alatreon,1,170,dragon 25,0,whitesharp
+Spada splend. Alatr.,1,190,dragon 37,0,whitesharp

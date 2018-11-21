@@ -1,0 +1,72 @@
+-
+Ascia Yukumo Antica,0,50,bottleattack,0,yellowsharp
+Ascia cang. Yakumo,0,70,bottleattack,0,yellowsharp
+Ascia Yukumo +,0,90,bottleattack,0,yellowsharp
+Ascia Yukumo,0,130,bottleattack,0,greensharp
+Ascia Princ.wyvern,0,130,poison 16,0,greensharp
+Ascia Princ.Wyvern+,0,150,poison 20,0,greensharp
+Ascia Regina Wyvern,0,170,poison 20,0,greensharp
+Ascia Rathian,0,190,poison 24,0,bluesharp
+Ascia Divario,1,180,bottlefatigue,0,greensharp
+Ascia Divario +,1,210,bottlefatigue,0,bluesharp
+Ascia Doboruberuku,1,220,bottlefatigue,0,bluesharp
+Ascia Aoashira,0,110,bottlepoison,0,yellowsharp
+Ascia Aoashira +,0,150,bottlepoison,0,greensharp
+Ascia Gran Aoashira,0,200,bottlepoison,0,greensharp
+Ascia Ambra,0,150,ice 20,20,greensharp
+Ascia Ambra +,0,170,ice 25,20,greensharp
+Ascia Ambra gelata,0,190,ice 28,25,bluesharp
+Ascia Desertica,0,170,paralysis,10,whitesharp
+Ascia Barioth Des.,0,190,paralysis,10,whitesharp
+Ascia Pecco,2,120,fire 16,0,greensharp
+Ascia Pecco +,2,160,fire 18,0,greensharp
+Ascia Qurupeco,2,190,fire 20,0,bluesharp
+Ascia Qurupeco Arc.,2,170,thunder 28,5,greensharp
+Ascia Qurupeco Arc.+,2,190,thunder 32,5,bluesharp
+Ascia d'Osso,0,80,bottleattack,0,greensharp
+Ascia d'Osso distr.,0,100,bottleattack,0,yellowsharp
+Ascia d'Assalto,0,140,paralysis,-20,greensharp
+Ascia d'Assalto +,1,170,paralysis,-20,greensharp
+Ascia Bunker,2,200,paralysis,-25,greensharp
+Ascia Barroth,2,230,paralysis,-25,greensharp
+Ascia Osso duro,2,180,bottleattack,0,greensharp
+Ascia Osso duro +,2,200,bottleattack,0,bluesharp
+Ascia Osso diavolo,2,210,bottleattack,0,bluesharp
+Ascia nascosta,0,140,bottlepoison,40,bluesharp
+Ascia nascosta +,1,160,bottlepoison,40,bluesharp
+Ascia osc. mezzaluna,2,180,bottlepoison,0,whitesharp
+Ascia Natura,0,100,bottlefatigue,0,yellowsharp
+Ascia Natura +,0,120,bottlefatigue,0,yellowsharp
+Ascia Dasher,0,170,bottlefatigue,0,greensharp
+Ascia tiranno,0,190,bottlefatigue,-20,greensharp
+Ascia tiranno +,0,210,bottlefatigue,-20,greensharp
+Ascia Caos,0,230,bottlefatigue,-20,bluesharp
+Ascia Morte,1,220,paralysis,-30,greensharp
+Ascia Morte Nera,1,240,paralysis,-30,bluesharp
+Ascia Temp.di Fuoco,1,150,bottleattack fire 23,10,greensharp
+Ascia temp.di Fuoco+,1,180,bottleattack fire 25,10,greensharp
+Ascia fiamme tempes.,1,200,bottleattack fire 28,15,bluesharp
+Ascia Torrente,0,180,bottleattack water 15,15,bluesharp
+Ascia Tsunami Agnak.,0,200,bottleattack water 18,15,bluesharp
+Ascia Rullo vincol.,0,130,paralysis 12,0,greensharp
+Ascia Rullo Vincol.+,0,150,paralysis 15,0,greensharp
+Ascia Rullo Ranguro.,0,170,paralysis 18,0,bluesharp
+Ascia Sigi. demoni,0,150,water 20,5,yellowsharp
+Ascia sigi. Demoni +,0,170,water 24,10,greensharp
+Ascia gr.sigi.Demoni,1,190,water 26,15,bluesharp
+Ascia Tagliente D,1,130,dragon,0,greensharp
+Ascia distruttrice D,2,140,dragon,15,greensharp
+Ascia distr. anime,3,190,dragon,15,bluesharp
+Ascia Gatto truce,0,80,bottleattack paralysis 20,0,greensharp
+Ascia Gatto truce +,0,110,bottleattack paralysis 22,0,greensharp
+Ascia Cheshire,0,140,bottleattack paralysis 25,0,greensharp
+Vera Ascia Yukumo,0,160,dragon,0,greensharp
+Vera Ascia Yukumo +,0,190,dragon,0,greensharp
+Ascia Cerim. Yukumo,0,210,dragon,0,greensharp
+Ascia Raiden,1,160,bottleattack thunder 22,0,greensharp
+Ascia Zanna del Re,1,210,bottleattack thunder 25,0,bluesharp
+Ascia del Male,0,240,bottleattack water 12,-20,greensharp
+Ascia distr. Akantor,0,250,dragon,35,greensharp
+Ascia Nera,1,170,dragon 28,0,bluesharp
+Ascia Nera Alatreon,1,190,dragon 32,0,whitesharp
+Ascia Pirata J,3,200,bottleattack,0,bluesharp

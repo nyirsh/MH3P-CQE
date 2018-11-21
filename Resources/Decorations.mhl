@@ -1,0 +1,165 @@
+
+Gll Risoluto  [1],1,S4,1,S2,-1
+Gll Risoluto  [1],1,S4,2,S0,0
+Gll Paralisi  [1],1,S2,1,S1,-1
+Gll Anti-par  [2],2,S2,3,S1,-1
+Gll Vigore    [1],1,S3,1,S5,-1
+Gll Scossa    [2],2,S3,3,S5,-1
+Gll Antidoto  [1],1,S1,1,S4,-1
+Gll Anti-Vel  [2],2,S1,3,S4,-1
+Gll ForzAnim  [1],1,S86,2,S0,0
+Gll Anti-Furto[1],1,S36,2,S0,0
+Gll Lubrific. [1],1,S5,1,S3,-1
+Gll Nev.&Fang.[1],1,S5,2,S0,0
+Gll Retrovir. [1],1,S76,1,S49,-1
+Gll Antiviral.[1],1,S76,2,S0,0
+Gll Ancora    [1],1,S63,1,S3,-1
+Gll Tettonica [1],1,S63,2,S0,0
+Gll BrezzaCald[1],1,S44,2,S0,0
+Gll BrezzaFrsc[1],1,S45,2,S0,0
+Gll Tpp Orec. [1],1,S35,1,S34,-1
+Gll Silenzio  [3],3,S35,4,S34,-2
+Gll Fermacarte[1],1,S46,1,S50,-1
+Gll Metal.Pes.[2],2,S46,3,S50,-1
+Gll Attacco   [1],1,S32,1,S33,-1
+Gll Fierezza  [2],2,S32,3,S33,-1
+Gll Fortissimo[3],3,S32,5,S33,-1
+Gll Esperto   [1],1,S12,1,S43,-1
+Gll Celebrità [2],2,S12,3,S43,-1
+Gll Eremita   [3],3,S12,5,S43,-1
+Gll Att.Spec. [1],1,S27,1,S28,-1
+Gll Att.Spec.+[2],2,S27,3,S28,-1
+Gll Elemento  [1],1,S28,1,S27,-1
+Gll Elemento +[3],3,S28,4,S27,-2
+Gll Att.Fuoco [1],1,S87,1,S88,-1
+Gll Att.Fuoco+[2],2,S87,3,S88,-1
+Gll Att.Acqua [1],1,S88,1,S89,-1
+Gll Att.Acqua+[2],2,S88,3,S89,-1
+Gll Att.Tuono [1],1,S89,1,S90,-1
+Gll Att.Tuono+[2],2,S89,3,S90,-1
+Gll Att.Ghiac.[1],1,S90,1,S87,-1
+Gll Att.Ghiac+[2],2,S90,3,S87,-1
+Gll Att.Drago [1],1,S91,1,S27,-1
+Gll Att.Drago+[2],2,S91,3,S27,-1
+Gll Debilitat.[1],1,S94,1,S7,-1
+Gll Debilitat+[3],3,S94,4,S7,-2
+Gll Colpo Pes.[1],1,S95,1,S12,-1
+Gll Colpo Pes+[3],3,S95,4,S12,-2
+Gll Munizioni [1],1,S59,1,S17,-1
+Gll Munizioni+[3],3,S59,4,S17,-2
+Gll CaricaCort[1],1,S70,1,S67,-1
+Gll CaricaRap.[3],3,S70,4,S67,-2
+Gll Rilasc.Frz[1],1,S84,1,S49,-1
+Gll Rilasc.F.+[2],2,S84,3,S49,-1
+Gll KO        [1],1,S96,1,S70,-1
+Gll KO +      [2],2,S96,3,S70,-1
+Gll Fatica    [1],1,S97,1,S58,-1
+Gll Fatica +  [2],2,S97,3,S58,-1
+Gll Pericolo  [1],1,S56,1,S34,-1
+Gll Crisi     [2],2,S56,3,S34,-1
+Gll Avversità [1],1,S73,1,S52,-1
+Gll Avversità+[2],2,S73,3,S52,-1
+Gll Bombardier[1],1,S29,2,S0,0
+Gll Piffero   [1],1,S82,2,S0,0
+Gll Obice     [1],1,S83,2,S0,0
+Gll Difesa    [1],1,S33,1,S32,-1
+Gll Tartaruga [2],2,S33,3,S32,-1
+Gll Rovina    [1],1,S72,1,S7,-1
+Gll Rovina +  [3],3,S72,4,S7,-2
+Gll Inferno   [1],1,S39,1,S40,-1
+Gll Cremisi   [1],1,S39,2,S0,0
+Gll Ruscello  [1],1,S40,1,S41,-1
+Gll Torrente  [1],1,S40,2,S0,0
+Gll Fulmine   [1],1,S41,1,S42,-1
+Gll Tuono     [1],1,S41,2,S0,0
+Gll Gelo      [1],1,S42,1,S39,-1
+Gll Ghiacciaio[1],1,S42,2,S0,0
+Gll Uccisore  [1],1,S43,1,S1,-1
+Gll Estinzione[1],1,S43,2,S0,0
+Gll Protezione[1],1,S34,1,S0,0
+Gll Prot.Divin[1],1,S34,2,S0,0
+Gll Forza     [1],1,S7,2,S0,0
+Gll Benessere [1],1,S8,1,S61,-1
+Gll Rec.Veloce[2],2,S8,3,S61,-1
+Gll Permanenza[1],1,S52,1,S8,-1
+Gll Eterno    [2],2,S52,3,S8,-1
+Gll Evasione  [1],1,S55,1,S7,-1
+Gll Schivata  [2],2,S55,3,S7,-1
+Gll Salto     [1],1,S64,1,S7,-1
+Gll Volante   [3],3,S64,4,S7,-2
+Gll Rinforder.[1],1,S98,1,S13,-1
+Gll Rinforder+[2],2,S98,3,S13,-1
+Gll MaestrTrap[1],1,S66,2,S0,0
+Gll Mangiavel.[1],1,S61,1,S52,-1
+Gll Ingordigia[3],3,S61,4,S52,-2
+Gll Maratona  [1],1,S58,1,S30,-1
+Gll Scattista [3],3,S58,4,S30,-2
+Gll Costituz. [1],1,S67,1,S58,-1
+Gll Salute    [2],2,S67,3,S58,-1
+Gll PrendFiato[1],1,S99,1,S55,-1
+Gll Rec.Resist[2],2,S99,3,S55,-1
+Gll Digiuno   [1],1,S30,2,S0,0
+Gll Ciccione  [1],1,S31,2,S0,0
+Gll Fato      [1],1,S50,1,S6,-1
+Gll Destino   [3],3,S50,4,S6,-2
+Gll Premio    [1],1,S68,1,S50,-1
+Gll Premio +  [3],3,S68,4,S50,-2
+Gll Tagliapel.[1],1,S62,1,S50,-1
+Gll Scalco    [3],3,S62,4,S50,-2
+Gll Viag.Zaino[1],1,S38,2,S0,0
+Gll Raccolta  [1],1,S47,2,S0,0
+Gll Raccolta+ [1],1,S47,2,S0,0
+Gll BuonaFort.[1],1,S6,2,S0,0
+Gll Amicizia  [1],1,S37,1,S49,-1
+Gll Amato     [2],2,S37,3,S49,-1
+Gll Psichico  [1],1,S51,2,S0,0
+Gll Professore[1],1,S53,2,S0,0
+Gll MaestrComb[1],1,S54,2,S0,0
+Gll Tenacia   [1],1,S57,2,S0,0
+Gll Mappa     [1],1,S69,2,S0,0
+Gll Bmb Letame[1],1,S75,2,S0,0
+Gll Cacciatore[1],1,S85,2,S0,0
+Gll Ninja     [1],1,S49,2,S0,0
+Gll Artigiano [1],1,S10,1,S9,-1
+Gll Maestro   [3],3,S10,4,S9,-2
+Gll Schermid. [1],1,S11,1,S10,-1
+Gll Spadaccino[3],3,S11,4,S10,-2
+Gll Rasoio    [1],1,S9,1,S10,-1
+Gll Taglierino[3],3,S9,4,S10,-2
+Gll SfilaSpada[1],1,S65,1,S12,-1
+Gll Sguainat. [2],2,S65,3,S12,-1
+Gll EstrContu.[1],1,S71,1,S9,-1
+Gll EstrContu+[3],3,S71,4,S9,-2
+Gll MuroPietra[1],1,S14,1,S67,-1
+Gll Cort.Ferro[2],2,S14,3,S67,-1
+Gll Muro Duro [1],1,S15,1,S58,-1
+Gll Muraglione[2],2,S15,3,S58,-1
+Gll Mulino    [1],1,S13,2,S0,0
+Gll ColpoForte[1],1,S19,1,S18,-1
+Gll ColpForte+[3],3,S19,4,S18,-2
+Gll Foro      [1],1,S20,1,S18,-1
+Gll Foro +    [3],3,S20,4,S18,-2
+Gll Pallottola[1],1,S21,1,S18,-1
+Gll Pallott. +[3],3,S21,4,S18,-2
+Gll ColpoBonus[1],1,S22,1,S17,-1
+Gll ColpBonus+[2],2,S22,3,S17,-1
+Gll ForoBonus [1],1,S23,2,S0,0
+Gll Pall.Bonus[1],1,S24,2,S0,0
+Gll PiccoBonus[1],1,S25,2,S0,0
+Gll FrammBonus[1],1,S26,1,S17,-1
+Gll Tagl.Bonus[1],1,S92,2,S0,0
+Gll FuocoCont.[1],1,S74,1,S17,-1
+Gll Raffica   [3],3,S74,4,S17,-2
+Gll Mattiniero[1],1,S17,1,S18,-1
+Gll AltaVeloc.[2],2,S17,3,S18,-1
+Gll SenzaRinc.[1],1,S18,1,S17,-1
+Gll SenzaScos.[3],3,S18,4,S17,-2
+Gll Cecchino  [1],1,S60,2,S0,0
+Gll SostParal.[1],1,S78,1,S32,-1
+Gll SostParla.[2],2,S78,3,S32,-1
+Gll SostSonno [1],1,S79,2,S0,0
+Gll SostVeleno[1],1,S77,2,S0,0
+Gll SostAttac.[1],1,S80,1,S12,-1
+Gll SostAtt.+ [2],2,S80,3,S12,-1
+Gll SostRasoio[1],1,S81,2,S0,0
+Gll SostFatica[1],1,S93,2,S0,0

@@ -1,0 +1,233 @@
+
+Cotta Yukumo,0,0,1,1,S34,2,S6,2,S12,1,S0,0
+Cotta di Cuoio,0,0,0,1,S47,3,S47,3,S6,2,S0,0
+Cotta di Maglia,0,0,0,2,S7,3,S53,3,S54,3,S0,0
+Cotta da Cacciatore,0,1,1,6,S85,3,S51,2,S66,1,S1,-1
+Pettor. Cacciatore,0,2,1,3,S85,2,S51,2,S66,1,S1,-2
+Cotta Loc Lac,0,0,1,4,S38,2,S30,5,S0,0,S0,0
+Cotta d'Osso,0,1,1,8,S82,1,S47,2,S96,3,S3,-1
+Pettor. d'osso,0,2,1,4,S82,2,S47,2,S96,1,S3,-2
+Cotta in Lega,0,1,1,8,S46,1,S12,2,S13,2,S47,-2
+Pettor. in Lega,0,2,1,4,S21,2,S17,2,S24,1,S47,-2
+Cotta Bnahabra,0,1,1,10,S27,3,S98,1,S49,1,S32,-2
+Pettor. Bnahabra,0,2,1,5,S27,3,S98,1,S49,1,S32,-2
+Cotta Rhenoplos,0,1,1,10,S99,2,S83,1,S5,2,S42,-2
+Pettor. Rhenoplos,0,2,1,5,S99,2,S83,1,S60,2,S42,-2
+Cotta Jaggi,0,1,1,12,S32,2,S69,2,S8,1,S57,-2
+Pettor. Jaggi,0,2,1,6,S32,2,S69,2,S8,1,S57,-2
+Cotta Aoashira,0,1,1,12,S31,2,S33,2,S4,1,S2,-2
+Pettor. Aoashira,0,2,1,6,S31,2,S33,2,S4,1,S2,-2
+Cotta d'Acciaio,0,1,1,14,S33,4,S13,2,S76,1,S0,0
+Cotta di Furogi,0,1,1,14,S67,1,S69,1,S4,-2,S27,3
+Pettor. di Furogi,0,2,1,7,S67,1,S69,1,S4,-2,S27,3
+Cotta Urukususu,0,1,1,14,S55,3,S42,2,S45,1,S44,-1
+Pettor. Urukususu,0,2,1,7,S55,3,S42,1,S45,1,S44,-2
+Cotta Qurupeco,0,1,0,12,S37,4,S51,2,S52,2,S61,-1
+Pettor. Qurupeco,0,2,0,6,S37,2,S51,4,S52,2,S61,-1
+Cotta Ludroth,0,1,1,14,S58,3,S30,1,S88,1,S41,-2
+Pettor. Ludroth,0,2,1,7,S58,3,S30,1,S88,1,S41,-2
+Cotta Barroth,0,1,0,16,S14,2,S96,1,S33,4,S67,-2
+Pettor. Barroth,0,2,0,8,S19,3,S60,1,S33,3,S67,-2
+Cotta Lingotto,0,1,1,20,S46,3,S89,1,S6,-1,S63,2
+Pettor. Lingotto,0,2,1,10,S21,2,S89,1,S6,-2,S23,2
+Cotta Baggi,0,1,1,16,S32,3,S90,1,S8,1,S39,-2
+Pettor. Baggi,0,2,1,8,S32,3,S90,1,S8,1,S39,-2
+Cotta Rangurotora,0,1,0,16,S55,1,S39,3,S44,3,S45,-2
+Pettor. Rangurotora,0,2,0,8,S55,2,S39,2,S44,3,S45,-2
+Cotta Rathian,0,1,1,18,S7,3,S34,1,S87,1,S8,-2
+Pettor. Rathian,0,2,1,9,S7,2,S34,2,S87,1,S8,-2
+Cotta Hapurubokka,0,1,1,18,S61,3,S88,1,S31,1,S30,-2
+Pettor. Hapurubokka,0,2,1,9,S61,3,S88,1,S31,1,S30,-2
+Cotta Gigginox,0,1,2,18,S27,1,S41,1,S4,1,S7,-2
+Pettor. Gigginox,0,2,2,9,S27,1,S41,1,S4,1,S7,-2
+Cotta Nargacuga,0,1,0,20,S64,4,S99,2,S49,1,S32,-2
+Pettor. Nargacuga,0,2,0,10,S64,4,S99,1,S49,1,S32,-3
+Cotta Barioth,0,1,1,20,S58,3,S67,1,S90,1,S99,-2
+Pettor. Barioth,0,2,1,10,S58,3,S67,1,S90,1,S99,-2
+Cotta Rathalos,0,1,1,22,S94,3,S32,1,S87,1,S52,-2
+Pettor. Rathalos,0,2,1,11,S94,3,S32,1,S87,1,S52,-2
+Cotta Uragaan,0,1,1,22,S71,3,S33,1,S39,1,S40,-2
+Pettor. Uragaan,0,2,1,11,S20,3,S33,1,S39,1,S40,-2
+Cotta Jinouga,0,1,0,22,S84,3,S89,1,S9,2,S49,-3
+Pettor. Jinouga,0,2,0,11,S84,3,S89,2,S19,1,S49,-3
+Cotta Diablos,0,1,1,24,S65,2,S97,1,S63,2,S27,-2
+Pettor. Diablos,0,2,1,12,S20,2,S22,1,S97,1,S27,-3
+Cotta Tigrex,0,1,2,24,S35,2,S51,1,S31,1,S34,-1
+Pettor. Tigrex,0,2,2,12,S35,1,S51,1,S31,1,S34,-2
+Cotta Agnaktor,0,1,1,24,S14,1,S9,2,S12,2,S56,-2
+Pettor. Agnaktor,0,2,1,12,S19,2,S23,2,S60,1,S56,-2
+Cotta Doboroberuku,0,1,1,24,S95,2,S56,1,S32,1,S12,-3
+Pettor. Doboroberuku,0,2,1,12,S95,1,S56,1,S18,3,S12,-2
+Cotta Gilda,1,1,0,20,S68,3,S69,2,S37,1,S50,-3
+Pettor. Gilda,1,2,0,10,S68,3,S69,2,S37,2,S50,-2
+Cotta Scalata,2,1,0,20,S68,3,S69,2,S37,1,S50,-3
+Pettor. Scalata,2,2,0,10,S68,3,S69,2,S37,2,S50,-2
+Cotta Halloween,1,1,2,16,S70,1,S57,1,S66,1,S14,-2
+Cotta Halloween,2,1,2,16,S70,1,S57,1,S66,1,S14,-2
+Pettor. Halloween,1,2,2,8,S70,1,S57,1,S66,1,S60,-2
+Pettor. Halloween,2,2,2,8,S70,1,S57,1,S66,1,S60,-2
+Cotta Vaiku,0,1,1,14,S9,2,S8,1,S40,1,S13,-3
+Pettor. Vaiku,0,2,1,7,S19,2,S8,1,S40,1,S17,-3
+Cotta Necrologio,1,1,1,18,S35,1,S12,2,S41,1,S34,-3
+Pettor. Necrologio,1,2,1,9,S35,2,S12,1,S41,1,S34,-3
+Cotta da Contadino,2,1,1,18,S35,1,S12,2,S41,1,S34,-3
+Pettor. da Contadino,2,2,1,9,S35,2,S12,1,S41,1,S34,-3
+Cotta Arrugginita,0,1,1,20,S11,1,S15,4,S13,-2,S0,0
+Pettor. Arrugginita,0,2,1,10,S74,1,S18,4,S17,-2,S0,0
+Cotta Yamato,1,1,2,26,S10,1,S70,1,S12,1,S9,-2
+Pettor. Mutsu,1,2,2,13,S59,1,S70,1,S12,1,S18,-2
+Cotta Hinata,2,1,2,26,S10,1,S70,1,S12,1,S9,-2
+Pettor. Amagi,2,2,2,13,S59,1,S70,1,S12,1,S18,-2
+Cotta Zuwaroposu,0,1,0,12,S7,5,S40,4,S0,0,S0,0
+Pettor. Zuwaroposu,0,2,0,6,S7,5,S40,4,S0,0,S0,0
+Cotta Yuami,0,0,1,8,S50,2,S57,2,S32,-3,S0,0
+Cotta Ghianda,0,0,0,12,S29,2,S83,7,S0,0,S0,0
+Cotta Yukumo (Cielo),0,1,2,28,S34,2,S6,2,S52,2,S13,1
+Pett. Yukumo (Terra),0,2,2,14,S34,1,S6,3,S52,2,S60,1
+Cotta di Cuoio S,0,1,1,28,S47,2,S47,3,S6,1,S30,3
+Pettor. di Cuoio S,0,2,1,14,S47,3,S47,3,S6,1,S30,2
+Cotta di Maglia S,0,1,1,28,S7,2,S97,2,S54,5,S0,0
+Pettorina di Maglia S,0,2,1,14,S7,3,S54,1,S22,5,S0,0
+Cotta Cacciatore S,0,1,1,30,S85,1,S51,2,S1,-3,S69,3
+Pettor. Cacciatore S,0,2,1,15,S85,1,S51,2,S1,-3,S69,3
+Cotta Loc Lac S,0,1,2,30,S38,2,S51,5,S0,0,S0,0
+Pettor. Loc Lac S,0,2,2,15,S38,2,S51,5,S0,0,S0,0
+Cotta d'Osso S,0,1,1,30,S47,1,S96,4,S3,-1,S82,3
+Pettor. d'Osso S,0,2,1,15,S47,1,S96,3,S3,-2,S82,3
+Cotta in Lega S,0,1,2,30,S46,2,S12,1,S13,2,S47,-2
+Pettor. in Lega S,0,2,2,15,S21,2,S24,2,S12,1,S47,-2
+Cotta Bnahabra S,0,1,1,32,S27,2,S11,1,S32,-2,S43,4
+Pettor. Bnahabra S,0,2,1,16,S27,1,S2,2,S32,-2,S43,4
+Cotta Rhenoplos S,0,1,1,32,S99,1,S83,2,S4,-2,S33,4
+Pettor. Rhenoplos S,0,2,1,16,S99,2,S60,1,S4,-2,S33,4
+Cotta Jaggi S,0,1,1,35,S32,2,S12,3,S8,2,S57,-2
+Pettor. Jaggi S,0,2,1,18,S32,2,S12,3,S8,2,S57,-2
+Cotta Aoashira S,0,1,1,35,S34,1,S33,3,S4,3,S2,-2
+Pettor. Aoashira S,0,2,1,18,S34,1,S33,3,S4,3,S2,-2
+Cotta d'Acciaio S,0,1,1,41,S14,3,S13,4,S76,2,S0,0
+Cotta Furogi S,0,1,0,38,S67,4,S61,4,S1,1,S33,-2
+Pettor. Furogi S,0,2,0,20,S67,4,S61,3,S1,2,S33,-2
+Cotta Urukususu S,0,1,2,38,S55,1,S42,3,S32,1,S39,-2
+Pettor. Urukususu S,0,2,2,20,S55,1,S42,3,S32,1,S39,-2
+Cotta Qurupeco S,0,1,1,35,S37,5,S51,1,S87,1,S42,-2
+Pettor. Qurupeco S,0,2,1,18,S37,5,S51,1,S87,1,S42,-2
+Cotta Ludroth S,0,1,1,38,S58,2,S88,1,S89,-2,S96,4
+Pettor. Ludroth S,0,2,1,20,S58,2,S88,1,S89,-2,S96,4
+Cotta Barroth S,0,1,2,41,S14,1,S67,1,S56,2,S30,-3
+Pettor. Barroth S,0,2,2,22,S19,2,S18,1,S56,1,S30,-3
+Cotta Lingotto S,0,1,1,47,S46,4,S12,1,S13,3,S6,-1
+Pettor. Lingotto S,0,2,1,26,S21,1,S24,3,S17,3,S6,-2
+Cotta Baggi S,0,1,2,41,S32,3,S8,1,S52,1,S39,-2
+Pettor. Baggi S,0,2,2,22,S32,1,S8,1,S52,3,S39,-2
+Cotta Rangurotora S,0,1,0,41,S55,3,S63,3,S39,3,S40,-2
+Pettor. Rangurotora S,0,2,0,22,S55,3,S22,3,S39,3,S40,-2
+Cotta Rathian S,0,1,0,44,S7,1,S8,4,S88,-2,S34,4
+Pettor. Rathian S,0,2,0,24,S7,2,S8,3,S88,-2,S34,4
+Cotta Hapurubokka S,0,1,0,44,S61,5,S88,3,S98,1,S89,-2
+Pett. Hapurubokka S,0,2,0,24,S61,5,S88,3,S98,1,S89,-2
+Cotta Gigginox S,0,1,1,44,S27,3,S41,2,S9,2,S53,-2
+Pettor. Gigginox S,0,2,1,24,S27,3,S41,1,S23,3,S53,-2
+Cotta Nargacuga S,0,1,0,47,S64,3,S55,5,S49,1,S58,-2
+Pettor. Nargacuga S,0,2,0,26,S64,2,S55,5,S49,2,S58,-2
+Cotta Barioth S,0,1,2,47,S55,3,S67,1,S90,1,S99,-2
+Pettor. Barioth S,0,2,2,26,S55,3,S67,1,S90,1,S99,-2
+Cotta Rathalos S,0,1,2,50,S94,3,S32,1,S13,1,S52,-2
+Pettor. Rathalos S,0,2,2,28,S94,3,S74,1,S32,1,S52,-2
+Cotta Uragaan S,0,1,2,50,S71,1,S65,1,S40,-2,S39,3
+Pettor. Uragaan S,0,2,2,28,S20,1,S18,1,S40,-2,S39,3
+Cotta Dober,0,1,2,50,S99,2,S91,1,S55,2,S30,-2
+Pettor. Dober,0,2,2,28,S99,2,S91,1,S55,1,S30,-3
+Cotta Jinouga S,0,1,3,53,S84,1,S89,1,S64,1,S49,-2
+Pettor. Jinouga S,0,2,3,30,S84,1,S89,1,S64,1,S49,-2
+Cotta Diablos S,0,1,2,53,S65,2,S98,2,S63,1,S27,-2
+Pettor. Diablos S,0,2,2,30,S20,2,S22,2,S98,1,S27,-2
+Cotta di Tigrex S,0,1,0,53,S35,4,S58,3,S31,1,S34,-3
+Pettor. Tigrex S,0,2,0,30,S35,3,S58,3,S31,2,S34,-3
+Cotta Agnaktor S,0,1,2,53,S67,2,S9,1,S88,-2,S39,2
+Pettor. Agnaktor S,0,2,2,30,S19,1,S60,2,S88,-2,S39,2
+Cotta Doboroberuku S,0,1,1,53,S95,2,S56,1,S32,4,S12,-2
+Pett. Doboroberuku S,0,2,1,30,S95,2,S56,2,S18,2,S12,-3
+Cotta Qurupeco U,0,1,0,38,S37,5,S61,3,S89,1,S90,-2
+Pettor. Qurupeco U,0,2,0,20,S37,5,S61,3,S89,1,S90,-2
+Cotta Ludroth U,0,1,3,41,S58,1,S27,1,S40,1,S41,-2
+Pettor. Ludroth U,0,2,3,22,S58,1,S27,1,S40,1,S41,-2
+Cotta Barroth U,0,1,1,44,S96,3,S90,3,S87,-2,S97,1
+Pettor. Barroth U,0,2,1,24,S20,3,S90,1,S87,-2,S96,3
+Cotta Gigginox U,0,1,3,47,S70,1,S89,1,S97,1,S90,-2
+Pettor. Gigginox U,0,2,3,26,S70,1,S89,1,S97,1,S90,-2
+Cotta Nargacuga U,0,1,3,50,S58,1,S99,1,S69,1,S67,-2
+Pettor. Nargacuga U,0,2,3,28,S58,1,S99,1,S69,1,S67,-2
+Cotta Barioth U,0,1,0,50,S64,5,S67,2,S49,2,S55,-2
+Pettor. Barioth U,0,2,0,28,S64,5,S67,2,S49,2,S55,-2
+Cotta Uragaan U,0,1,1,53,S14,5,S99,2,S29,1,S43,-1
+Pettor. Uragaan U,0,2,1,30,S21,3,S99,3,S29,2,S43,-1
+Cotta Diablos U,0,1,3,56,S71,1,S96,1,S97,1,S91,-2
+Pettor. Diablos U,0,2,3,32,S18,1,S17,2,S22,1,S91,-1
+Cotta di Tigrex U,0,1,0,56,S35,3,S70,1,S51,4,S34,-3
+Pettor. Tigrex U,0,2,0,32,S35,3,S70,3,S51,3,S34,-2
+Cotta Agnaktor U,0,1,1,56,S14,2,S15,1,S90,4,S87,-2
+Pettor. Agnaktor U,0,2,1,32,S17,2,S90,4,S23,1,S87,-2
+Cotta Luna Dorata,2,1,3,56,S95,1,S34,1,S50,1,S41,-2
+Pettor. Luna Dorata,2,2,3,32,S95,1,S34,1,S50,1,S41,-2
+Cotta Sole Argentato,0,1,2,56,S94,2,S9,1,S32,1,S7,-3
+Pettor. Sole Argent.,0,2,2,32,S94,1,S19,2,S32,1,S7,-3
+Cotta Vangis,0,1,0,59,S10,3,S61,3,S42,3,S9,-2
+Pettor. Vangis,0,2,0,34,S59,3,S61,3,S42,3,S18,-2
+Cotta Ranger,0,1,0,47,S62,2,S12,4,S52,2,S50,-3
+Pettor. Ranger,0,2,0,26,S62,2,S12,4,S52,2,S50,-3
+Cotta Gilda S,1,1,1,44,S68,3,S69,1,S37,3,S50,-2
+Pettor. Gilda S,1,2,1,24,S68,3,S69,2,S37,2,S50,-2
+Cotta Scalata S,2,1,1,44,S68,3,S69,1,S37,3,S50,-2
+Pettor. Scalata S,2,2,1,24,S68,3,S69,2,S37,2,S50,-2
+Cotta Halloween S,1,1,1,32,S70,1,S55,2,S14,-2,S57,4
+Cotta Halloween S,2,1,1,32,S70,1,S55,2,S14,-2,S57,4
+Pettor. Halloween S,1,2,1,16,S70,1,S55,2,S60,-2,S57,4
+Pettor. Halloween S,2,2,1,16,S70,1,S55,2,S60,-2,S57,4
+Cotta Vaiku S,0,1,2,38,S9,1,S98,1,S88,4,S13,-1
+Pettor. Vaiku S,0,2,2,20,S19,1,S98,1,S88,3,S17,-2
+Cotta Necrologio S,1,1,3,44,S35,1,S41,1,S34,-2,S4,1
+Pett. Necrologio S,1,2,3,24,S35,1,S41,1,S34,-2,S4,1
+Cotta da Contadino S,2,1,3,44,S35,1,S41,1,S34,-2,S4,1
+Pett. da Contadino S,2,2,3,24,S35,1,S41,1,S34,-2,S4,1
+Cotta Arrugginita S,0,1,1,47,S11,1,S15,5,S13,-3,S0,0
+Pettor. Arrugginita S,0,2,1,26,S74,5,S18,1,S17,-3,S0,0
+Cotta Bocciolo,0,1,0,38,S37,5,S51,3,S69,1,S1,-2
+Pettor. Fiore,0,2,0,20,S37,3,S51,3,S69,2,S1,-3
+Cotta Damascus,0,1,2,59,S10,1,S89,1,S13,1,S9,-4
+Pettor. Damascus,0,2,2,34,S59,1,S21,1,S89,1,S18,-4
+Cotta Yamato Supremo,1,1,1,59,S70,2,S11,1,S12,4,S8,-2
+Pettor. Mutsu Supremo,1,2,1,34,S70,2,S20,1,S12,4,S8,-2
+Cotta Hinata Supremo,2,1,1,59,S70,2,S11,1,S12,4,S8,-2
+Pettor. Amagi Supremo,2,2,1,34,S70,2,S20,1,S12,4,S8,-2
+Corazza Akantor,0,1,1,62,S95,2,S35,3,S87,1,S34,-3
+Pettor. Akantor,0,2,1,36,S95,1,S35,4,S87,1,S34,-3
+Corazza Ukanlos,0,1,3,62,S94,1,S11,1,S90,1,S70,-2
+Pettor. Ukanlos,0,2,3,36,S94,1,S74,1,S90,1,S70,-2
+Cotta Escadora,0,1,1,62,S28,2,S72,1,S64,4,S56,-2
+Pettor. Escadora,0,2,1,36,S28,2,S72,3,S64,2,S56,-2
+Cotta Tempesta,0,1,0,62,S84,2,S10,5,S88,2,S61,-2
+Pettor. Tempesta,0,2,0,36,S84,3,S59,5,S88,1,S61,-2
+Cotta Zuwaroposu S,0,1,0,32,S7,3,S40,8,S0,0,S0,0
+Pettor. Zuwaroposu S,0,2,0,18,S7,3,S40,8,S0,0,S0,0
+Cotta Yuami Superiore,0,1,1,24,S50,3,S57,2,S32,-4,S0,0
+Cotta Ghianda,0,2,1,44,S29,2,S83,7,S0,0,S0,0
+Pettor. Ghianda,0,1,1,24,S29,2,S83,7,S0,0,S0,0
+Cotta Tre Occhi,0,2,3,14,S0,0,S0,0,S0,0,S0,0
+Giacca da Guerriero,0,1,0,22,S73,10,S0,0,S0,0,S0,0
+Vestito da Guerriero,0,2,0,11,S73,10,S0,0,S0,0,S0,0
+Giacca da Guerriero,0,1,0,47,S73,10,S0,0,S0,0,S0,0
+Vestito da Guerriero,0,2,0,26,S73,10,S0,0,S0,0,S0,0
+Cotta Pirata J,0,1,0,26,S62,2,S50,2,S68,3,S34,-4
+Pettor. Pirata J,0,2,0,13,S62,2,S50,2,S68,3,S34,-4
+Tuta di Snake,1,1,0,47,S70,2,S67,3,S66,2,S30,-4
+Corpetto di Snake,1,2,1,26,S59,3,S60,3,S66,1,S30,-2
+Tuta di The Boss,2,1,2,47,S49,2,S70,2,S51,2,S28,-1
+Corpetto di The Boss,2,2,1,26,S49,2,S59,3,S51,2,S28,-2
+Vestito UNIQLO,0,1,1,47,S35,2,S64,3,S45,2,S61,-2
+Giacca UNIQLO,0,2,1,26,S35,2,S64,3,S45,2,S61,-2
+Giacca in Pelle,1,1,0,47,S32,5,S99,3,S49,-3,S0,0
+Jump in Pelle,1,2,0,26,S32,5,S99,3,S49,-3,S0,0
+Giacca in Pelle,2,1,0,47,S32,5,S99,3,S49,-3,S0,0
+Jump in Pelle,2,2,0,26,S32,5,S99,3,S49,-3,S0,0
+Maglietta Monster Hunter,0,1,0,47,S85,10,S0,0,S0,0,S0,0
+Shirt Monster Hunter,0,2,0,26,S85,10,S0,0,S0,0,S0,0

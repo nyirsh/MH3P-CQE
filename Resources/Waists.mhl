@@ -1,0 +1,214 @@
+
+Falda Yukumo,0,0,1,1,S34,2,S6,2,S12,1,S0,0
+Falda di Cuoio,0,0,0,1,S47,2,S47,4,S6,3,S0,0
+Fianc. di Cuoio,0,0,1,2,S7,1,S53,3,S54,3,S0,0
+Falda da Cacc.,0,1,1,6,S85,1,S51,4,S66,2,S1,-2
+Fianc. da Cacc.,0,2,1,3,S85,2,S51,2,S66,3,S1,-2
+Falda Loc Lac,0,0,1,4,S38,4,S30,5,S0,0,S0,0
+Falda d'Osso,0,1,1,8,S82,3,S47,1,S96,3,S3,-2
+Fianc. d'Osso,0,2,1,4,S82,1,S47,4,S96,3,S3,-1
+Falda in Lega,0,1,2,8,S46,2,S12,3,S13,1,S47,-1
+Fianc. in Lega,0,2,2,4,S21,1,S17,1,S24,2,S47,-3
+Falda Bnahabra,0,1,1,10,S27,3,S98,1,S49,3,S32,-2
+Fianc. Bnahabra,0,2,1,5,S27,2,S98,3,S49,2,S32,-2
+Falda Rhenoplos,0,1,1,10,S99,3,S83,3,S5,2,S42,-1
+Fianc. Rhenoplos,0,2,1,5,S99,2,S83,4,S60,1,S42,-2
+Falda Jaggi,0,1,1,12,S32,3,S69,1,S8,4,S57,-1
+Fianc. Jaggi,0,2,1,6,S32,2,S69,3,S8,2,S57,-2
+Falda Aoshira,0,1,1,12,S31,3,S33,2,S4,3,S2,-1
+Fianc. Aoshira,0,2,1,6,S31,2,S33,1,S4,3,S2,-3
+Falda d'Acciaio,0,1,0,14,S33,2,S13,4,S76,5,S0,0
+Falda Furogi,0,1,1,14,S67,3,S69,3,S4,-1,S27,2
+Fianc. Furogi,0,2,1,7,S67,1,S69,3,S4,-3,S27,2
+Falda Urukususu,0,1,1,14,S55,3,S42,3,S45,2,S44,-1
+Fianc. Urukususu,0,2,1,7,S55,1,S42,4,S45,2,S44,-2
+Falda Qurupeco,0,1,1,12,S37,3,S52,1,S61,-2,S82,3
+Fianc. Qurupeco,0,2,1,6,S37,1,S52,2,S61,-3,S82,3
+Falda Ludroth,0,1,1,14,S58,3,S30,2,S88,3,S41,-1
+Fianc. Ludroth,0,2,1,7,S58,1,S30,2,S88,4,S41,-2
+Falda Barroth,0,1,1,16,S14,3,S96,1,S33,3,S67,-2
+Fianc. Barroth,0,2,1,8,S19,1,S60,3,S33,2,S67,-3
+Falda Lingotto,0,1,0,20,S46,3,S89,1,S13,5,S6,-2
+Fianc. Lingotto,0,2,0,10,S21,4,S89,1,S17,4,S6,-2
+Falda Baggi,0,1,1,16,S32,2,S90,4,S8,2,S39,-1
+Fianc. Baggi,0,2,1,8,S32,2,S90,1,S8,4,S39,-2
+Falda Rangurotora,0,1,1,16,S55,4,S44,2,S45,-1,S63,2
+Fianc. Rangurotora,0,2,1,8,S55,2,S44,2,S45,-3,S54,2
+Falda Rathian,0,1,1,18,S7,1,S34,4,S87,2,S8,-2
+Fianc. Rathian,0,2,1,9,S7,3,S34,2,S87,1,S8,-3
+Falda Hapurubokka,0,1,2,18,S61,2,S88,1,S31,3,S30,-1
+Fianc. Hapurubokka,0,2,2,9,S61,3,S88,1,S31,1,S30,-2
+Falda Gigginox,0,1,1,18,S27,4,S41,1,S4,3,S7,-1
+Fianc. Gigginox,0,2,1,9,S27,4,S41,1,S4,2,S7,-2
+Falda Nargacuga,0,1,1,20,S64,3,S99,1,S49,3,S32,-2
+Fianc. Nargacuga,0,2,1,10,S64,2,S99,2,S49,3,S32,-2
+Falda Barioth,0,1,2,20,S58,1,S67,4,S90,1,S99,-1
+Fianc. Barioth,0,2,2,10,S58,3,S67,1,S90,1,S99,-2
+Falda Rathalos,0,1,2,22,S94,2,S32,1,S87,2,S52,-2
+Fianc. Rathalos,0,2,2,11,S94,2,S32,1,S87,2,S52,-2
+Falda Uragaan,0,1,0,22,S71,1,S33,5,S39,2,S40,-3
+Fianc. Uragaan,0,2,0,11,S20,1,S33,4,S39,4,S40,-2
+Falda Jinouga,0,1,1,22,S84,3,S89,2,S9,1,S49,-3
+Fianc. Jinouga,0,2,1,11,S84,2,S89,2,S19,3,S49,-2
+Falda Diablos,0,1,1,24,S65,2,S97,3,S63,3,S27,-1
+Fianc. Diablos,0,2,1,12,S20,3,S22,2,S97,1,S27,-3
+Falda Tigrex,0,1,0,24,S35,3,S51,5,S31,1,S34,-2
+Fianc. Tigrex,0,2,0,12,S35,2,S51,5,S31,3,S34,-1
+Falda Agnaktor,0,1,2,24,S14,1,S9,2,S12,2,S56,-2
+Fianc. Agnaktor,0,2,2,12,S19,2,S23,2,S60,1,S56,-2
+Falda Doboruberuku,0,1,2,24,S95,1,S56,3,S32,1,S12,-2
+Fianc. Doboruberuku,0,2,2,12,S95,1,S56,2,S18,1,S12,-3
+Falda Gilda,1,1,1,20,S68,2,S69,2,S37,4,S50,-1
+Fianc. Gilda,1,2,1,10,S68,1,S69,3,S37,4,S50,-1
+Falda Scalata,2,1,1,20,S68,2,S69,2,S37,4,S50,-1
+Fianc. Scalati,2,2,1,10,S68,1,S69,3,S37,4,S50,-1
+Falda Halloween,0,1,1,16,S70,2,S57,2,S66,3,S14,-2
+Falda Halloween,0,1,1,16,S70,2,S57,2,S66,3,S14,-2
+Fianc. Halloween,0,2,1,8,S70,2,S57,3,S66,2,S60,-2
+Fianc. Halloween,0,2,1,8,S70,2,S57,3,S66,2,S60,-2
+Falda Vaiku,0,1,1,14,S9,3,S8,3,S40,1,S13,-2
+Fianc. Vaiku,0,2,1,7,S19,3,S8,3,S40,1,S17,-2
+Falda Necrologio,1,1,1,18,S35,3,S12,4,S41,1,S34,-1
+Fianc. Necrologio,1,2,1,9,S35,2,S12,1,S41,4,S34,-2
+Falda da Contadino,2,1,1,18,S35,3,S12,4,S41,1,S34,-1
+Fianc. da Contadino,2,2,1,9,S35,2,S12,1,S41,4,S34,-2
+Falda Yamato,1,1,0,26,S10,4,S70,2,S12,2,S9,-3
+Fianc. Mutsu,1,2,0,13,S59,3,S70,3,S12,4,S18,-1
+Falda Hinata,2,1,0,26,S10,4,S70,2,S12,2,S9,-3
+Fianc. Amagi,2,2,0,13,S59,3,S70,3,S12,3,S18,-2
+Falda Yukumo (Cielo),0,1,2,28,S34,2,S6,2,S52,3,S13,2
+Fianc. Yukumo (Terra),0,2,2,14,S34,3,S6,1,S52,3,S60,2
+Falda di Cuoio S,0,1,1,28,S47,1,S47,3,S6,4,S30,3
+Fianc. di Cuoio S,0,2,1,14,S47,3,S47,1,S6,4,S30,3
+Falda di Maglia S,0,1,2,28,S7,2,S53,4,S97,3,S0,0
+Fianc. di Maglia S,0,2,2,14,S7,2,S53,4,S54,3,S0,0
+Falda da Cacc. S,0,1,1,30,S85,3,S51,3,S1,-2,S69,3
+Fianc. da Cacc. S,0,2,1,15,S85,4,S51,3,S1,-1,S69,3
+Falda Loc Lac S,0,1,2,30,S38,4,S51,5,S0,0,S0,0
+Fianc. Loc Lac S,0,2,2,15,S38,4,S51,5,S0,0,S0,0
+Falda d'Osso S,0,1,1,30,S52,3,S47,4,S96,3,S3,-1
+Fianc. d'Osso S,0,2,1,15,S52,3,S47,4,S96,1,S3,-3
+Falda in Lega S,0,1,2,30,S46,2,S12,4,S13,1,S47,-2
+Fianc. in Lega S,0,2,2,15,S21,1,S24,3,S12,3,S47,-2
+Falda Bnahabra S,0,1,1,32,S27,2,S11,2,S2,5,S32,-2
+Fianc. Bnahabra S,0,2,1,16,S27,4,S17,1,S2,2,S32,-4
+Falda Rhenoplos S,0,1,1,32,S99,1,S83,4,S4,-2,S33,4
+Fianc. Rhenoplos S,0,2,1,16,S99,1,S60,4,S4,-2,S33,4
+Falda Jaggi S,0,1,1,35,S32,2,S12,3,S8,4,S57,-2
+Fianc. Jaggi S,0,2,1,18,S32,1,S12,3,S8,4,S57,-3
+Falda Aoashira S,0,1,1,35,S34,4,S33,3,S4,3,S2,-1
+Fianc. Aoashira S,0,2,1,18,S34,3,S33,3,S4,3,S2,-2
+Falda d'Acciaio S,0,1,2,41,S14,2,S13,4,S76,3,S0,0
+Falda Furogi S,0,1,2,38,S67,2,S61,2,S33,-2,S27,3
+Fianc. Furogi S,0,2,2,20,S67,2,S61,2,S33,-2,S27,3
+Falda Urukususu S,0,1,0,38,S55,4,S32,3,S39,-2,S90,4
+Fianc. Urukususu S,0,2,0,20,S55,4,S32,2,S39,-3,S90,4
+Falda Qurupeco S,0,1,2,35,S37,3,S51,3,S87,1,S42,-2
+Fianc. Qurupeco S,0,2,2,18,S37,4,S51,2,S87,1,S42,-2
+Falda Ludroth S,0,1,2,38,S58,2,S88,2,S4,4,S89,-1
+Fianc. Ludroth S,0,2,2,20,S58,2,S88,2,S4,3,S89,-2
+Falda Barroth S,0,1,2,41,S14,2,S67,1,S30,-3,S32,3
+Fianc. Barroth S,0,2,2,22,S19,2,S18,1,S30,-3,S32,3
+Falda Lingotto S,0,1,1,47,S46,2,S12,3,S6,-2,S63,4
+Fianc. Lingotto S,0,2,1,26,S21,2,S24,3,S6,-2,S23,4
+Falda Baggi S,0,1,0,41,S8,4,S52,3,S39,-2,S42,4
+Fianc. Baggi S,0,2,1,22,S8,2,S52,2,S39,-3,S42,4
+Falda Rangurotora S,0,1,2,41,S55,2,S39,1,S40,-2,S33,4
+Fianc. Rangurotora S,0,2,2,22,S55,1,S39,1,S40,-3,S33,4
+Falda  Rathian S,0,1,1,44,S7,4,S8,2,S88,-2,S34,3
+Fianc. Rathian S,0,2,1,24,S7,2,S8,3,S88,-3,S34,3
+Falda Hapurubokka S,0,1,2,44,S61,2,S98,1,S89,-3,S31,3
+Fianc. Hapurubokka S,0,2,2,24,S61,1,S98,2,S89,-3,S31,3
+Falda Gigginox S,0,1,1,44,S27,3,S9,2,S53,-2,S30,4
+Fianc. Gigginox S,0,2,1,24,S27,2,S23,3,S53,-2,S30,4
+Falda Nargacuga S,0,1,2,47,S64,3,S49,1,S58,-2,S66,3
+Fianc. Nargacuga S,0,2,2,26,S64,1,S49,2,S58,-3,S66,3
+Falda Barioth S,0,1,0,47,S55,5,S90,3,S99,-2,S58,3
+Fianc. Barioth S,0,2,0,26,S55,2,S90,5,S99,-3,S58,3
+Falda Rathalos S,0,1,2,50,S94,1,S13,3,S52,-2,S87,3
+Fianc. Rathalos S,0,2,2,28,S94,1,S74,2,S52,-3,S87,3
+Falda Uragaan S,0,1,3,50,S71,1,S65,1,S40,-3,S39,2
+Fianc. Uragaan S,0,2,3,28,S20,2,S18,1,S40,-2,S39,2
+Falda Dober,0,2,0,50,S99,5,S91,3,S55,2,S30,-3
+Fianc. Dober,0,1,0,28,S99,4,S91,5,S55,2,S30,-2
+Falda Jinouga S,0,1,1,53,S84,2,S89,6,S64,1,S49,-2
+Fianc. Jinouga S,0,2,1,30,S84,4,S89,3,S64,2,S49,-2
+Falda Diablos S,0,1,2,53,S65,2,S98,4,S63,2,S27,-1
+Fianc. Diablos S,0,2,2,30,S20,1,S22,3,S98,2,S27,-3
+Falda Tigrex S,0,1,2,53,S35,2,S58,3,S31,2,S34,-2
+Fianc. Tigrex S,0,2,2,30,S35,2,S58,1,S31,5,S34,-1
+Falda Agnaktor S,0,1,1,53,S67,3,S9,2,S88,-2,S39,4
+Fianc. Agnaktor S,0,2,1,30,S19,2,S60,4,S88,-1,S39,4
+Falda Doboruberuku S,0,1,1,53,S95,2,S56,5,S12,-1,S7,3
+Fianc. Doboruberuku S,0,2,1,30,S95,2,S56,5,S12,-1,S7,3
+Falda Qurupeco U,0,1,1,38,S37,1,S61,3,S89,5,S90,-2
+Fianc. Qurupeco U,0,2,1,20,S37,1,S61,2,S89,5,S90,-3
+Falda Ludroth U,0,1,3,41,S58,2,S27,1,S40,1,S41,-3
+Fianc. Ludroth U,0,2,3,22,S58,2,S27,2,S40,1,S41,-2
+Falda Barroth U,0,1,0,44,S96,4,S90,2,S87,-2,S97,5
+Fianc. Barroth U,0,2,0,24,S20,3,S90,5,S87,-3,S96,2
+Falda Gigginox U,0,1,2,47,S70,1,S97,2,S90,-2,S58,4
+Fianc. Gigginox U,0,2,2,26,S70,1,S97,2,S90,-2,S58,4
+Falda Narga U,0,1,0,50,S58,2,S69,6,S67,-2,S55,3
+Fianc. Narga U,0,2,1,28,S58,2,S69,4,S67,-2,S55,3
+Falda Barioth U,0,1,3,50,S64,1,S67,3,S49,1,S55,-2
+Fianc. Barioth U,0,2,3,28,S64,1,S67,3,S49,1,S55,-2
+Falda Uragaan U,0,1,0,53,S14,1,S99,4,S29,5,S43,-3
+Fianc. Uragaan U,0,2,0,30,S21,4,S99,3,S29,4,S43,-2
+Falda Diablos U,0,1,3,56,S71,1,S96,2,S97,2,S91,-2
+Fianc. Diablos U,0,2,3,32,S18,1,S17,1,S22,3,S91,-2
+Falda Tigrex U,0,1,3,56,S35,2,S70,2,S51,1,S34,-2
+Fianc. Tigrex U,0,2,3,32,S35,1,S70,2,S51,2,S34,-2
+Falda Agnaktor U,0,1,3,56,S14,1,S15,1,S87,-3,S40,2
+Fianc. Agnaktor U,0,2,3,32,S17,1,S23,1,S87,-3,S40,2
+Falda Luna Dorata,0,1,3,56,S95,1,S34,1,S50,3,S41,-2
+Fianc. Luna Dorata,0,2,3,32,S95,1,S34,1,S50,3,S41,-2
+Falda Sole Arg.,0,1,2,56,S94,3,S9,3,S32,2,S7,-1
+Fianc. Sole Arg.,0,2,2,32,S94,3,S19,3,S32,2,S7,-1
+Falda Vangis,0,1,0,59,ST,1,S0,0,S0,0,S0,0
+Fianc. Vangis,0,2,0,34,ST,1,S0,0,S0,0,S0,0
+Falda Ranger,0,1,2,47,S62,4,S12,2,S52,1,S50,-2
+Fianc. Ranger,0,2,2,26,S62,3,S12,1,S52,2,S50,-3
+Falda Gilda S,1,1,3,44,S68,1,S69,2,S37,2,S50,-2
+Fianc. Gilda S,1,2,3,24,S68,1,S69,1,S37,2,S50,-3
+Falda Scalata S,2,1,3,44,S68,1,S69,2,S37,2,S50,-2
+Fianc. Scalati S,2,2,3,24,S68,1,S69,1,S37,2,S50,-3
+Falda Halloween,1,1,0,32,S70,4,S66,2,S14,-1,S57,6
+Falda Halloween,2,1,0,32,S70,4,S66,2,S14,-1,S57,6
+Fianc. Halloween,1,2,0,16,S70,4,S66,1,S60,-2,S57,6
+Fianc. Halloween,2,2,0,16,S70,4,S66,1,S60,-2,S57,6
+Falda Vaiku,0,1,1,38,S9,2,S98,1,S13,-3,S8,5
+Fianc. Vaiku,0,2,1,20,S19,2,S98,3,S17,-1,S8,5
+Falda Necrologio S,1,1,1,44,S35,3,S41,3,S34,-1,S4,4
+Fianc. Necrologio S,1,2,1,24,S35,2,S41,4,S34,-1,S4,4
+Falda Contadino S,2,1,1,44,S35,3,S41,3,S34,-1,S4,4
+Fianc. Contadino S,2,2,1,24,S35,2,S41,4,S34,-1,S4,4
+Falda Bocciolo,0,1,1,38,S37,4,S51,4,S69,1,S1,-2
+Falda Fiore,0,2,1,20,S37,5,S51,2,S69,3,S1,-1
+Falda Damascus,0,1,3,59,S10,2,S89,1,S13,2,S9,-2
+Fianc. Damascus,0,2,3,34,S59,2,S21,2,S89,1,S18,-2
+Falda Yamato Supr.,1,1,0,59,S70,3,S11,3,S12,6,S8,-1
+Fianc. Mutsu Supr.,1,2,0,34,S70,1,S20,4,S12,6,S8,-2
+Falda Hinata Supr.,2,1,0,59,S70,3,S11,3,S12,6,S8,-1
+Fianc. Amagi Supr.,2,2,0,34,S70,1,S20,4,S12,6,S8,-2
+Falda Akantor,0,1,0,62,S95,4,S35,5,S87,2,S34,-2
+Fianc. Akantor,0,2,0,36,S95,4,S35,4,S87,3,S34,-2
+Falda Ukanlos,0,1,1,62,S94,4,S11,2,S70,-1,S9,4
+Fianc. Ukanlos,0,2,1,36,S94,2,S74,3,S70,-2,S19,4
+Falda Escadora,0,1,3,62,S28,1,S72,2,S64,2,S56,-2
+Fianc. Escadora,0,2,3,36,S28,1,S72,2,S64,2,S56,-2
+Falda Tempesta,0,1,3,62,S84,2,S10,1,S88,2,S61,-2
+Fianc. Tempesta,0,2,3,36,S84,2,S59,1,S88,3,S61,-2
+Falda Tre Occhi,0,0,3,14,S0,0,S0,0,S0,0,S0,0
+Falda Pirata J,0,1,0,26,S62,4,S50,3,S68,3,S34,-3
+Fianc. Pirata J,0,2,0,13,S62,3,S50,3,S68,4,S34,-3
+Cintura di Snake,1,1,2,47,S70,2,S67,3,S66,2,S30,-2
+Fascia di Snake,1,2,1,26,S59,3,S60,4,S66,2,S30,-2
+Cintura di The Boss,2,1,2,47,S49,2,S70,2,S51,3,S28,-2
+Fascia di The Boss,2,2,1,26,S49,2,S59,3,S51,4,S28,-2
+Cintura UNIQLO,0,1,2,47,S35,2,S64,3,S45,2,S61,-2
+Marsupio UNIQLO,0,2,2,26,S35,1,S64,4,S45,2,S61,-2
+Cintura in Pelle,1,1,0,47,S32,5,S99,4,S49,-4,S0,0
+Fibbia in Pelle,1,2,0,26,S32,5,S99,4,S49,-4,S0,0
+Cintura in Pelle,2,1,0,47,S32,5,S99,4,S49,-4,S0,0
+Fibbia in Pelle,2,2,0,26,S32,5,S99,4,S49,-4,S0,0

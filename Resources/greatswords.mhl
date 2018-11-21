@@ -1,0 +1,92 @@
+-
+Vecchia Spada Yukumo,0,50,raw,0,yellowsharp
+Spada Yukumo,0,70,raw,0,yellowsharp
+Spada Yukumo+,0,90,raw,0,yellowsharp
+Lama Yukumo,0,130,raw,0,greensharp
+Spada 41 Cerimonie,0,140,water 20 defense 16,0,greensharp
+Spada 41 Cerimonie+,0,190,water 25 defense 20,0,greensharp
+Spada Titolare,0,210,water 32 defense 24,0,bluesharp
+Spada Distruttrice,0,80,raw,0,yellowsharp
+Spada Distruttrice+,0,110,raw,0,yellowsharp
+Lama Devastante,1,130,raw,0,greensharp
+Spada Splendente,1,140,raw,0,greensharp
+Spada Splendente+,1,170,defense 16,0,greensharp
+Spada Carbalite,2,180,raw,0,greensharp
+Spada Carbalite+,2,200,raw,0,bluesharp
+Brazenwall,0,200,defense 30,0,greensharp
+Brazenwall+,0,220,defense 35,0,greensharp
+Crimsonwall,0,240,defense 40,0,bluesharp
+Fiamma Nascosta,0,150,raw,30,bluesharp
+Spada di Tenebra,2,190,raw,35,whitesharp
+Spadone Gagliardo,1,110,raw,0,greensharp
+Spadone del Capo,2,120,raw,0,greensharp
+Spad. del Capo [Gr.],3,190,raw,0,greensharp
+Spada Carapace,0,150,raw,-30,greensharp
+Lama Carapace,0,190,raw,-30,greensharp
+Demolitore Barroth,0,220,raw,-50,greensharp
+Lama Aurora,1,200,ice 20,-30,greensharp
+Luce del Nord,1,220,ice 25,-30,bluesharp
+Agito Tigre,0,170,raw,-25,bluesharp
+Grande Spada Tiga,0,180,raw,-25,Àò
+Spada Suprema Tiga,1,220,raw,-15,whitesharp
+Spada del Supporto,2,200,raw,-20,bluesharp
+Spada Dentata[Grez.],2,230,raw,-30,bluesharp
+Lama d'Osso,0,90,raw,0,yellowsharp
+Lama d'Osso+,0,120,raw,0,yellowsharp
+Falce d'Osso,0,140,raw,0,greensharp
+Lama Golem,1,150,raw,0,greensharp
+Lama Golem+,2,180,raw,0,greensharp
+Spada di Talos,2,210,raw,0,bluesharp
+Agito,1,190,raw,0,greensharp
+Dragon Agito,1,210,raw,0,greensharp
+Agito Oscura,1,220,raw,0,bluesharp
+Lama Valchiria,0,140,poison 24,0,greensharp
+Seiglinde,1,160,poison 28,0,greensharp
+Seiglinde Alta,2,200,poison 32,0,bluesharp
+Seigmund,1,200,raw,5,greensharp
+Seigmund Alta,1,220,raw,5,bluesharp
+Ala Rossa,0,160,fire 30,0,greensharp
+Spada Fuoco Rathalos,1,180,fire 38,0,greensharp
+Spada Fiam. Rathalos,1,190,fire 42,0,bluesharp
+Spada Lum. Rathalos,1,200,fire 56,0,bluesharp
+Spada Osso Ludroth,1,110,raw,0,yellowsharp
+Spada Cataclisma,1,130,water 32,0,greensharp
+Spada Cataclisma+,1,150,water 38,0,greensharp
+Lama Cataclisma,2,180,water 45,0,bluesharp
+Corno Spada,0,190,defense 8,-25,greensharp
+Corno Spada+,0,210,defense 12,-20,greensharp
+Spada Corno Diablos,0,230,defense 16,-20,bluesharp
+Zanna Ghiacciata,0,140,ice 30,30,greensharp
+Zanna Ghiacciata+,0,160,ice 45,30,bluesharp
+Terra Gelida,0,180,ice 55,35,bluesharp
+Spadone Virale,0,170,raw,10,whitesharp
+Lama Lunare,0,190,raw,10,whitesharp
+Spada Berserker,0,180,dragon 12,5,bluesharp
+Anguish,1,210,dragon 20,10,bluesharp
+Vulcanis,1,130,raw,0,greensharp
+Vulcanvil,2,140,raw,0,greensharp
+Vulcamagnon,3,190,raw,15,bluesharp
+Spadone Arrugginito,0,100,raw,-70,orangesharp
+Spadone Ossidato,0,100,raw,-70,yellowsharp
+Lama Antica,0,150,dragon 33,0,greensharp
+Vecchio Monumento,0,180,dragon 35,0,bluesharp
+Spadone Consunto,0,110,raw,-70,orangesharp
+Spadone Eroso,0,150,raw,0,yellowsharp
+Lama Epitaffio,0,200,dragon 38,-10,bluesharp
+Spada Oscura Son.,0,100,poison 30,0,yellowsharp
+Croce Avvelenata,0,150,poison 50,0,greensharp
+Bangasa [Piog. Aut.],3,130,raw,0,yellowsharp
+Bangasa [Piog. Inv.],3,180,raw,0,greensharp
+Vera Spada Yukumo,0,160,raw,0,greensharp
+Vera Spada Yukumo+,0,190,raw,0,greensharp
+Spada Nuvola Yukumo,0,210,raw,0,bluesharp
+Spada Fulmine,1,160,thunder 30,0,greensharp
+Fulmine Oscuro,1,210,thunder 35,0,bluesharp
+Spada Nebbia Malv.,0,240,water 16,-20,bluesharp
+Spada Supremazia,0,250,raw,45,greensharp
+Spada del Collasso,0,250,ice 20 defense 12,-20,greensharp
+Grande Spada,1,170,dragon 40,0,whitesharp
+Spadone Aurora,2,190,dragon 45,0,whitesharp
+Spade Incrociate,2,210,raw,0,bluesharp
+Grande Albero,0,140,thunder 50,10,greensharp
+Lama Foresta,0,180,thunder 60 defense 10,15,bluesharp

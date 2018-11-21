@@ -1,0 +1,94 @@
+-
+Vecch. Mart. Yukumo,0,50,raw,0,yellowsharp
+Martello Yukumo,0,70,raw,0,yellowsharp
+Percussore Yukumo,0,90,raw,0,yellowsharp
+Distruttore Yokumo,0,130,raw,0,greensharp
+Martello Rangurotora,0,110,paralysis 15,0,greensharp
+Assaltatore Rangurot,0,130,paralysis 22,0,greensharp
+Demolitore Rangurot.,0,150,paralysis 28,0,greensharp
+Martello di ferro,1,80,raw,0,yellowsharp
+Martello di ferro +,1,100,raw,0,greensharp
+Martello da guerra,1,140,raw,0,greensharp
+Colpitore di ferro,1,150,raw,0,greensharp
+Colpitore di ferro +,2,160,raw,0,greensharp
+Tormento di ferro,3,200,raw,0,greensharp
+Martello chiodato,2,190,raw,0,greensharp
+Orco di ferro,2,210,raw,0,bluesharp
+Martello Fucile,1,150,fire 22,10,greensharp
+Martello Fucile,1,170,fire 25,10,greensharp
+Rivoltella Mortale,1,190,fire 30,15,bluesharp
+Percussore a strisce,0,170,raw,-25,bluesharp
+Martello di Tigrex,0,220,raw,-20,whitesharp
+Cuore di ghiaccio,0,120,ice 20,0,greensharp
+Nucleo ghiacciato,1,150,ice 27,0,greensharp
+Tormento ibernatore,2,190,ice 40,0,bluesharp
+Mart. Piuma focaia,0,110,fire 25,0,greensharp
+Mart. Peco focaia,2,130,fire 30,0,greensharp
+Mart. Peco focaia +,2,180,fire 32,0,bluesharp
+Mart. Peco tuono,2,180,thunder 30,0,bluesharp
+Robo Peco tuonante,2,190,thunder 40,0,bluesharp
+Clava rosso Rathalos,1,140,fire 38,0,greensharp
+Frant. Rathalos,1,180,fire 42,0,bluesharp
+Frant.Sole Argentato,1,200,fire 44,0,Àò
+Fiore di Loto,0,130,poison 25,0,greensharp
+Gemma di Loto,0,160,poison 28,0,greensharp
+Loto seducente,0,180,poison 32,0,greensharp
+Tibia massiccia,1,90,raw,0,yellowsharp
+Tibia rinforzata,2,100,raw,0,greensharp
+Martello Barroth,0,140,defense 8,-10,greensharp
+Martello Barroth +,1,160,defense 16,-10,greensharp
+Compressore Barroth,1,200,defense 20,-30,greensharp
+Mart. Tritaghiaccio,0,200,ice 20,-20,bluesharp
+Mart. Tritaghiacciai,0,220,ice 25,-25,bluesharp
+Mart. Osso Duro,0,200,raw,0,greensharp
+Mart. Osso Duro +,1,220,raw,0,greensharp
+Nocca Uraagan ottone,0,170,defense 5,0,yellowsharp
+Nocca Uragaan furia,0,190,defense 10,0,yellowsharp
+Nocca Uragaan sisma,0,240,defense 20,0,greensharp
+Nocca Fusa Uragaan,0,210,fire 18 defense 15,0,yellowsharp
+Mart.Esplos.Uragaan,0,230,fire 20 defense 20,0,greensharp
+Mazza osso Ludroth,0,110,raw,0,yellowsharp
+Maglio osso Ludroth,0,120,water 21,0,greensharp
+Mart. fiotto Ludroth,1,150,water 32,0,greensharp
+Mart. Maremoto,2,180,water 40,0,bluesharp
+Mart. Giove Doboru,0,180,raw,0,greensharp
+Mart. Giove Doboru +,1,210,raw,0,bluesharp
+Distruttore Doburu,1,220,raw,0,bluesharp
+Martello Bullfango,0,100,raw,0,yellowsharp
+Martello Bulldrome,1,120,raw,0,yellowsharp
+Mart. Bull Brutale,2,150,raw,0,greensharp
+Distruttore nascosto,0,140,raw,40,bluesharp
+Distruttore furtivo,1,160,raw,40,bluesharp
+Mart. della notte,2,180,raw,40,whitesharp
+Distr. Verde Forest.,1,180,raw,0,whitesharp
+Mart. Tempesta Verde,1,200,raw,0,whitesharp
+Mart. Jhen Eco,1,160,water 25,0,greensharp
+Mart. Jhen Paura,1,180,water 33,0,bluesharp
+Mart. Jhen Mohran,1,200,water 35,0,bluesharp
+Martello del Caos,0,180,dragon 10,5,greensharp
+Mart. Caos Deviljho,1,210,dragon 18,5,bluesharp
+Martello Gaias,1,130,raw,0,greensharp
+Martello Gaiar,2,140,raw,0,greensharp
+Mart. Gran Gaiar,3,190,raw,15,bluesharp
+Martello Arrugginito,0,100,raw,-70,orangesharp
+Martello Ossidato,0,100,raw,-70,yellowsharp
+M. Soffio d'anima,0,150,dragon 28,0,greensharp
+M. Nucleo di lava,0,190,dragon 33,0,greensharp
+Martello Antico,0,110,raw,-70,yellowsharp
+Martello Lucidato,0,110,raw,-70,yellowsharp
+Mart. Cuore Pulsante,0,200,dragon 35,-5,bluesharp
+Mazza di Zucca,2,90,fire 6,0,greensharp
+Mazza Zucca di fuoco,2,140,fire 8,0,greensharp
+Mazza Zucca inferno,3,170,fire 10,0,bluesharp
+Martello Uovo,0,180,raw,-40,yellowsharp
+Martello Uovo Gagua,0,230,raw,-50,greensharp
+Vero Maglio Yukumo,0,160,raw,0,greensharp
+Vero Maglio Yukumo +,0,190,raw,0,greensharp
+M.Spirito Alb.Yukumo,0,210,raw,0,greensharp
+Mart. Rombo di Tuono,1,160,thunder 26,0,greensharp
+Mart. Ira di Jinouga,1,210,thunder 32,0,bluesharp
+Mart.Luce & Oscurità,0,240,water 16,-20,bluesharp
+Schiacciassi Ukanlos,0,250,ice 20 defense 15,-20,greensharp
+Martello Alatreon,1,170,dragon 35,0,bluesharp
+Mart Alatreon Splend,2,190,dragon 40,0,whitesharp
+Mart. Demone Oscuro,0,280,raw,-70,greensharp

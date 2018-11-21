@@ -1,0 +1,78 @@
+-
+Lnc-Fuc. Yukumo Ant.,0,50,normal 1,0,yellowsharp
+Lancia-Fuc. Yukumo,0,70,normal 1,0,yellowsharp
+Lancia-Fuc. Yukumo+,0,90,normal 1,0,yellowsharp
+Scoppio Yukumo,0,130,normal 2,0,greensharp
+Lancia-Fuc. Nasc.,0,140,normal 2,40,bluesharp
+Lancia-Fuc. Nasc.+,1,160,normal 2,40,bluesharp
+Notte di Luna,2,180,normal 3,40,whitesharp
+Lancia-Fuc. Mimet.,1,180,long 2,0,whitesharp
+Luna Verde,1,200,long 3,0,whitesharp
+Lancia-Fuc. Ferro,0,110,normal 1,0,greensharp
+Lancia-Fuc. Ferro+,1,150,normal 2,0,greensharp
+Lancia-Fuc. Acc.,1,180,normal 2,0,greensharp
+Lancia-Fuc. Op. Sp.,1,200,normal 2,0,greensharp
+Lancia-Fuc. Op. Sp.+,1,210,normal 3,0,greensharp
+Lancia-Fuc. Imper.,2,230,normal 3,0,greensharp
+Lancia-Fuc.del Tempo,2,200,spread 2,0,bluesharp
+Lancia-Fuc. Annient.,2,220,spread 3,0,bluesharp
+Torre Rossa,1,160,long 2 fire 25,0,greensharp
+Torre Rossa+,1,180,long 2 fire 28,0,bluesharp
+Torre Argentata,2,180,long 3 dragon 35,0,Àò
+Fucile Biga,2,200,long 3 dragon 40,0,bluesharp
+Fucile Assalto n.62,0,130,spread 1 water 20,0,greensharp
+Fucile Assalto n.62+,0,180,spread 2 water 25,0,greensharp
+Fucile da Soldato,0,200,spread 2 water 30,0,bluesharp
+Lancia-Fuc. Jaggi,1,80,long 1,0,yellowsharp
+Lancia-Fuc. Jaggi+,2,100,long 1,0,greensharp
+Scoppio Principessa,1,130,long 1 poison 18,0,greensharp
+Scoppio Principessa+,1,150,long 2 poison 20,0,greensharp
+Scoppio Smeraldo,1,170,long 3 poison 24,0,greensharp
+Scoppio Regina,1,190,normal 3 poison 28,0,bluesharp
+Ishtar Dorato,1,200,normal 3 poison 32,0,bluesharp
+Tipi Qurupeco,1,120,normal 1 fire 22,0,greensharp
+Tipi Qurupeco+,2,140,normal 2 fire 22,0,greensharp
+Tipi Requiem,2,190,normal 2 fire 24,0,bluesharp
+Piuma Elettrica,0,170,long 2 thunder 40,0,bluesharp
+Quetzalcoatl,0,190,long 3 thunder 45,0,bluesharp
+Lancia-Fuc. d'Osso,0,100,normal 1,0,yellowsharp
+Lancia-Fuc. d'Osso+,0,120,normal 1,0,yellowsharp
+Lnc-Fuc. Osso Wyv.,0,140,normal 2,0,greensharp
+Scoppio di Tigre,0,170,spread 1,-20,bluesharp
+Scoppio di Tigre+,0,190,spread 2,-20,bluesharp
+Esplosione di Tigre,0,220,spread 3,-20,whitesharp
+Fiamma Lavica,0,150,long 2 fire 28,15,bluesharp
+Fiamma Lavica+,0,180,long 3 fire 32,15,bluesharp
+Magma Agnaktor,0,200,long 3 fire 35,15,bluesharp
+Fiamma Liquida,0,170,normal 3 water 40,15,bluesharp
+Acqua Agnaktor,0,190,normal 3 water 48,20,bluesharp
+Sci Urukususu,0,110,spread 1 ice 25,0,greensharp
+Sci Urukususu+,0,150,spread 2 ice 32,0,greensharp
+Urukususu Glaciale,0,190,spread 3 ice 40,0,bluesharp
+Spezza Colpo,0,120,long 2 paralysis 14,-10,greensharp
+Spezza Asso,0,150,long 3 paralysis 18,-10,greensharp
+Distr. Rangurotora,0,160,long 3 paralysis 22,-10,bluesharp
+Zanna Distruttiva,1,160,normal 1 dragon 15,0,greensharp
+Zanna Demolitrice,1,190,normal 2 dragon 20,0,greensharp
+Zanna Eruzione,1,210,normal 3 dragon 25,0,bluesharp
+Lnc-Fuc. Consunta,0,110,normal 1,-70,orangesharp
+Lnc-Fuc. Erosa,0,110,normal 1,-70,yellowsharp
+Obelisco,0,200,spread 3 dragon 33,-5,bluesharp
+Felyne Bicorno,2,100,normal 2 paralysis 24,0,yellowsharp
+Bicorno Fortunato,2,130,normal 3 paralysis 28,0,greensharp
+Lancia-Fuc. Bambù,3,90,spread 2,0,yellowsharp
+Lancia-Fuc. Bambù+,3,140,spread 3,0,greensharp
+Lnc-Fuc. Bambù Sup.,3,170,spread 4,0,greensharp
+Vero Fuc. Yukumo,0,160,long 1,0,greensharp
+Vero Fuc. Yukumo+,0,190,long 1,0,greensharp
+Fucile Yukumo Cent.,0,210,long 2,0,bluesharp
+Lancia-Fuc. del Re,1,160,normal 2 thunder 28,0,greensharp
+Lnc-Fuc. Fulm. Reg.,1,210,normal 3 thunder 34,0,bluesharp
+Pioggia Maligna,0,240,long 3 water 16,-20,bluesharp
+Lancia-Fuc. Akantor,0,250,normal 4,35,greensharp
+Lancia-Fuc. Ukanlos,0,250,long 4 ice 20,-20,greensharp
+Corona d'Argento,0,130,long 2 ice 40,10,greensharp
+Corona d'Argento+,0,170,long 3 ice 48,15,greensharp
+Corona d'Oro,0,140,spread 2 thunder 40,10,greensharp
+Corona d'Oro+,0,180,spread 3 thunder 48,15,greensharp
+Corona di Platino,0,210,normal 3,5,bluesharp

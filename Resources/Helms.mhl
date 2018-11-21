@@ -1,0 +1,256 @@
+
+Capp. Yukumo,0,0,0,1,S34,2,S6,2,S12,2,S0,0
+Elmo di Cuoio,0,0,1,1,S47,2,S47,2,S6,3,S0,0
+Elmo di Maglia,0,0,1,2,S7,2,S53,4,S54,1,S0,0
+Elmo da Cacciatore,0,0,1,6,S85,2,S51,2,S66,3,S1,-2
+Capp. da cacciatore,0,0,1,3,S85,4,S51,4,S66,2,S1,-1
+Elmo d'Osso,0,0,1,8,S82,1,S47,3,S96,2,S3,-3
+Capp. d'Osso,0,0,1,4,S82,3,S47,3,S96,4,S3,-1
+Elmo in Lega,0,0,1,8,S46,2,S12,1,S13,3,S47,-3
+Capp. in Lega,0,0,1,4,S21,3,S17,3,S24,3,S47,-2
+Elmo Bnahabra,0,0,1,10,S27,1,S98,1,S49,4,S32,-3
+Capp. Bnahabra,0,0,1,5,S27,3,S98,3,S49,4,S32,-1
+Elmo Rhenoplos,0,0,1,10,S99,2,S83,1,S5,3,S42,-3
+Capp. Rhenoplos,0,0,1,5,S99,4,S83,2,S60,4,S42,-1
+Elmo Jaggi,0,0,1,12,S32,2,S69,2,S8,2,S57,-3
+Capp. Jaggi,0,0,1,6,S32,3,S69,3,S8,4,S57,-1
+Elmo Aoashira,0,0,1,12,S31,1,S33,2,S4,3,S2,-3
+Capp. Aoashira,0,0,1,6,S31,3,S33,3,S4,3,S2,-2
+Elmo Furogi,0,0,1,14,S67,2,S69,2,S1,2,S4,-3
+Capp. Furogi,0,0,1,7,S67,4,S69,4,S1,2,S4,-1
+Elmo Urukususu,0,0,0,14,S55,2,S42,4,S45,2,S44,-3
+Capp. Urukususu,0,0,0,7,S55,4,S42,4,S45,4,S44,-1
+Elmo Qurupeco,0,0,1,12,S37,1,S52,3,S61,-3,S82,2
+Capp. Qurupeco,0,0,1,6,S37,4,S52,4,S61,-1,S82,2
+Elmo Ludroth,0,0,1,14,S58,2,S30,3,S88,1,S41,-3
+Capp. Ludroth,0,0,1,7,S58,4,S30,3,S88,3,S41,-1
+Elmo Barroth,0,0,1,16,S14,3,S96,2,S33,1,S67,-3
+Capp. Barroth,0,0,1,8,S19,3,S60,3,S33,3,S67,-2
+Elmo Lingotto,0,0,1,20,S46,2,S89,2,S13,2,S6,-3
+Capp. Lingotto,0,0,1,10,S21,3,S89,2,S17,4,S6,-2
+Elmo Baggi,0,0,1,16,S32,1,S90,2,S8,3,S39,-3
+Capp. Baggi,0,0,1,8,S32,4,S90,2,S8,4,S39,-1
+Elmo Rangurotora,0,0,1,16,S55,3,S39,1,S44,2,S45,-3
+Capp. Rangurotora,0,0,1,8,S55,5,S39,2,S44,3,S45,-1
+Elmo Rathian,0,0,1,18,S7,4,S34,1,S87,1,S8,-3
+Capp. Rathian,0,0,1,9,S7,5,S34,3,S87,2,S8,-1
+Elmo Hapurubokka,0,0,0,18,S61,2,S88,4,S31,2,S30,-3
+Capp. Hapurubokka,0,0,0,9,S61,4,S88,3,S31,4,S30,-2
+Elmo Gigginox,0,0,1,18,S27,3,S41,2,S4,1,S7,-3
+Capp. Gigginox,0,0,1,9,S27,4,S41,2,S4,4,S7,-1
+Elmo Nargacuga,0,0,1,20,S64,2,S99,2,S49,2,S32,-3
+Capp. Nargacuga,0,0,1,10,S64,4,S99,3,S49,2,S32,-2
+Elmo Barioth,0,0,1,20,S58,2,S67,1,S90,3,S99,-3
+Capp. Barioth,0,0,1,10,S58,4,S67,5,S90,1,S99,-1
+Elmo Rathalos,0,0,1,22,S94,1,S32,4,S87,1,S52,-3
+Capp. Rathalos,0,0,1,11,S94,3,S32,2,S87,5,S52,-1
+Elmo Uragaan,0,0,1,22,S71,3,S33,1,S39,3,S40,-2
+Capp. Uragaan,0,0,1,11,S20,4,S33,5,S39,1,S40,-1
+Elmo Jinouga,0,0,2,22,S84,1,S89,1,S9,3,S49,-2
+capp. Jinouga,0,0,2,11,S84,2,S89,2,S19,3,S49,-2
+Elmo Diablos,0,0,1,24,S65,3,S97,2,S63,1,S27,-3
+Capp. Diablos,0,0,1,12,S20,3,S22,4,S97,2,S27,-2
+Elmo Tigrex,0,0,0,24,S35,1,S51,2,S31,6,S34,-2
+Capp. Tigrex,0,0,0,12,S35,3,S51,5,S31,4,S34,-1
+Elmo Agnaktor,0,0,1,24,S14,2,S9,3,S12,2,S56,-2
+Capp. Agnaktor,0,0,1,12,S19,2,S23,4,S60,3,S56,-2
+Elmo Doboruberuku,0,0,1,24,S95,1,S56,2,S32,3,S12,-3
+Capp. Doboruberuku,0,0,1,12,S95,3,S56,2,S18,4,S12,-2
+Elmo Gilda,1,0,2,20,S68,1,S69,2,S37,1,S50,-3
+Capp. Gilda,1,0,2,10,S68,4,S69,1,S37,2,S50,-2
+Elmo Scalato,2,0,2,20,S68,1,S69,2,S37,1,S50,-3
+Capp. Scalato,2,0,2,10,S68,4,S69,1,S37,2,S50,-2
+Elmo Halloween,1,0,2,16,S70,1,S57,2,S66,1,S14,-3
+Elmo Halloween,2,0,2,16,S70,1,S57,2,S66,1,S14,-3
+Capp. Halloween,1,0,2,8,S70,3,S57,2,S66,3,S60,-1
+Capp. Halloween,2,0,2,8,S70,3,S57,2,S66,3,S60,-1
+Elmo Vaiku,0,0,1,14,S9,2,S8,1,S40,4,S13,-2
+Capp. Vaiku,0,0,1,7,S19,2,S8,3,S40,4,S17,-2
+Elmo Necrologio,1,0,1,18,S35,2,S12,1,S41,3,S34,-3
+Capp. Necrologio,1,0,1,9,S35,3,S12,5,S41,1,S34,-2
+Elmo da Contadino,2,0,1,18,S35,2,S12,1,S41,3,S34,-3
+Capp. da Contadino,2,0,1,9,S35,3,S12,5,S41,1,S34,-2
+Elmo Yamato,1,0,0,26,S10,4,S70,1,S12,3,S9,-3
+Capp. Mutsu,1,0,0,13,S59,4,S70,2,S12,4,S18,-3
+Elmo Hinata,2,0,0,26,S10,4,S70,1,S12,3,S9,-3
+Capp. Amagi,2,0,0,13,S59,4,S70,2,S12,4,S18,-3
+Maschera Gagua,0,0,0,8,S53,10,S0,0,S0,0,S0,0
+Elmo Zuwaroposu,0,0,0,12,S7,5,S40,6,S0,0,S0,0
+Capp. Zuwaroposu,0,0,0,6,S7,5,S40,8,S0,0,S0,0
+Maschera Jaggi,0,0,0,10,S47,10,S0,0,S0,0,S0,0
+Maschera Bullfango,0,0,0,9,S30,10,S0,0,S0,0,S0,0
+Faccia di Teschio,0,0,0,10,ST,1,S0,0,S0,0,S0,0
+Elmo Yuami,0,0,1,8,S50,3,S57,3,S32,-3,S0,0
+Elmo Ghianda,0,0,0,12,S29,8,S83,3,S0,0,S0,0
+Orecchino Due Occhi,0,0,2,9,S0,0,S0,0,S0,0,S0,0
+Elmo Yukumo (Cielo),0,0,2,28,S34,1,S6,4,S52,1,S13,3
+Capp. Yukumo (Terra),0,0,2,14,S34,2,S6,4,S52,2,S60,3
+Elmo di Cuoio S,0,0,0,28,S47,1,S47,4,S6,4,S30,4
+Capp. di Cuoio S,0,0,0,14,S47,3,S47,4,S6,3,S30,5
+Elmo di Maglia S,0,0,1,28,S7,3,S97,4,S54,4,S0,0
+Capp. di Maglia S,0,0,1,14,S7,4,S54,5,S22,4,S0,0
+Elmo da Cacciatore S,0,0,1,30,S85,2,S51,3,S66,4,S1,-2
+Capp. da Cacc. S,0,0,1,15,S85,3,S51,4,S66,4,S1,-2
+Elmo d'Osso S,0,0,1,30,S52,4,S47,2,S96,2,S3,-3
+Capp. d'Osso S,0,0,1,15,S52,4,S47,4,S96,4,S3,-1
+Elmo in Lega S,0,0,2,30,S46,2,S12,1,S13,3,S47,-3
+Capp. in Lega S,0,0,2,15,S21,4,S24,4,S12,2,S47,-1
+Elmo Bnahabra S,0,0,2,32,S27,1,S11,3,S2,2,S32,-3
+Cappello Bnahabra S,0,0,2,16,S27,3,S17,4,S2,3,S32,-1
+Elmo Rhenoplos S,0,0,2,32,S99,2,S83,2,S5,2,S4,-3
+Cappello Rhenoplos S,0,0,2,16,S99,3,S83,3,S60,4,S4,-1
+Elmo Jaggi S,0,0,1,35,S32,3,S12,1,S8,4,S57,-3
+Cappello Jaggi S,0,0,1,18,S32,5,S12,3,S8,4,S57,-1
+Elmo Aoashira S,0,0,1,35,S34,2,S33,3,S4,3,S2,-3
+Capp. Aoashira S,0,0,1,18,S34,4,S33,4,S4,4,S2,-1
+Elmo Furogi S,0,0,2,38,S67,2,S61,2,S1,2,S33,-3
+Capp. Furogi S,0,0,2,20,S67,4,S61,4,S1,2,S33,-1
+Elmo Urukususu S,0,0,2,38,S55,2,S42,3,S32,1,S39,-3
+Capp. Urukususu S,0,0,2,20,S55,4,S42,2,S32,4,S39,-1
+Elmo Qurupeco S,0,0,2,35,S37,3,S51,2,S87,1,S42,-3
+Capp. Qurupeco S,0,0,2,18,S37,5,S51,4,S87,1,S42,-1
+Elmo Ludroth S,0,0,2,38,S58,2,S88,2,S4,2,S89,-3
+Capp. Ludroth S,0,0,2,20,S58,4,S88,1,S4,5,S89,-1
+Elmo Barroth S,0,0,0,41,S14,3,S67,3,S56,4,S30,-3
+Capp. Barroth S,0,0,0,22,S19,3,S18,4,S56,6,S30,-2
+Elmo Lingotto S,0,0,1,47,S46,2,S12,3,S13,3,S6,-3
+Capp. Lingotto S,0,0,1,26,S21,3,S24,4,S17,4,S6,-2
+Elmo Baggi S,0,0,1,41,S32,3,S8,3,S52,2,S39,-3
+Capp. Baggi S,0,0,1,22,S32,5,S8,5,S52,2,S39,-1
+Elmo Rangurotora S,0,0,1,41,S55,3,S63,1,S39,4,S40,-3
+Capp. Rangurotora S,0,0,1,22,S55,5,S22,1,S39,6,S40,-1
+Elmo Rathian S,0,0,2,44,S7,2,S87,2,S8,2,S88,-3
+Cappello Rathian S,0,0,2,24,S7,4,S87,2,S8,3,S88,-2
+Elmo Hapurubokka S,0,0,3,44,S61,1,S98,1,S89,-3,S31,2
+Capp. Hapurubokka S,0,0,3,24,S61,2,S98,3,S89,-2,S31,2
+Elmo Gigginox S,0,0,2,44,S27,1,S41,2,S9,3,S53,-3
+Capp. Gigginox S,0,0,2,24,S27,2,S41,3,S23,4,S53,-2
+Elmo Nargacuga S,0,0,2,47,S64,2,S55,1,S49,3,S58,-3
+Capp. Nargacuga S,0,0,2,26,S64,4,S55,3,S49,3,S58,-1
+Elmo Barioth S,0,0,2,47,S55,1,S67,3,S90,2,S99,-3
+Capp. Barioth S,0,0,2,26,S55,5,S67,4,S90,1,S99,-1
+Elmo Rathalos S,0,0,1,50,S94,1,S32,4,S13,3,S52,-3
+Capp. Rathalos S,0,0,1,28,S94,2,S74,4,S32,5,S52,-2
+Elmo Uragaan S,0,0,0,50,S71,3,S65,4,S33,3,S40,-3
+Capp. Uragaan S,0,0,0,28,S20,4,S18,5,S33,4,S40,-2
+Elmo Dober,0,0,0,50,S99,3,S91,3,S55,4,S30,-3
+Capp. Dober,0,0,0,28,S99,5,S91,3,S55,5,S30,-2
+Elmo Jinouga S,0,0,2,53,S84,2,S89,1,S64,3,S49,-3
+Capp. Jinouga S,0,0,2,30,S84,4,S89,1,S64,4,S49,-2
+Elmo Diablos S,0,0,2,53,S65,3,S98,1,S63,2,S27,-3
+Capp. Diablos S,0,0,2,30,S20,3,S22,3,S98,3,S27,-2
+Elmo Tigrex S,0,0,2,53,S35,2,S58,1,S31,3,S34,-3
+Capp. Tigrex S,0,0,2,30,S35,3,S58,3,S31,2,S34,-3
+Elmo Agnaktor S,0,0,1,53,S67,1,S9,4,S87,4,S88,-2
+Capp. Agnaktor S,0,0,1,30,S19,4,S87,5,S60,2,S88,-2
+Elmo Doboruberuku S,0,0,1,53,S95,1,S56,4,S32,3,S12,-3
+Capp. Doboruberuku S,0,0,1,30,S95,3,S56,3,S18,5,S12,-2
+Elmo Qurupeco U,0,0,2,38,S37,2,S61,3,S89,1,S90,-3
+Capp. Qurupeco U,0,0,2,20,S37,4,S61,5,S89,1,S90,-1
+Elmo Ludroth U,0,0,1,41,S58,1,S40,4,S41,-3,S97,3
+Capp. Ludroth U,0,0,1,22,S58,3,S27,5,S41,-2,S97,3
+Elmo Barroth U,0,0,2,44,S96,1,S33,4,S87,-3,S97,1
+Capp. Barroth U,0,0,2,24,S20,3,S90,1,S33,5,S87,-2
+Elmo Gigginox U,0,0,0,47,S70,2,S89,5,S97,4,S90,-2
+Capp. Gigginox U,0,0,0,26,S70,5,S89,4,S97,4,S90,-2
+Elmo Nargacuga U,0,0,3,50,S58,1,S99,2,S69,1,S67,-3
+Capp. Nargacuga U,0,0,3,28,S58,2,S99,2,S69,3,S67,-2
+Elmo Barioth U,0,0,1,50,S64,2,S67,3,S49,3,S55,-3
+Cappello Barioth U,0,0,1,28,S64,5,S67,3,S49,4,S55,-1
+Elmo Uragaan U,0,0,3,53,S14,2,S99,1,S29,1,S43,-3
+Cappello Uragaan U,0,0,3,30,S21,2,S99,4,S29,1,S43,-2
+Elmo Diablos U,0,0,1,56,S71,2,S96,3,S97,4,S91,-2
+Capp. Diablos U,0,0,1,32,S18,4,S17,4,S22,1,S91,-4
+Elmo Tigrex U,0,0,0,56,S35,2,S70,3,S51,5,S34,-3
+Capp. Tigrex U,0,0,0,32,S35,4,S70,4,S51,4,S34,-3
+Elmo Agnaktor U,0,0,1,56,S14,3,S15,5,S90,2,S87,-1
+Capp. Agnaktor U,0,0,1,32,S17,4,S90,2,S23,6,S87,-1
+Elmo Luna Dorata,0,0,3,56,S95,2,S34,1,S50,1,S41,-3
+Capp. Luna Dorata,0,0,3,32,S95,3,S34,1,S50,3,S41,-2
+Elmo Sole Argentato,0,0,0,56,S94,2,S9,3,S32,5,S7,-3
+Capp. Sole Argentato,0,0,0,32,S94,3,S19,4,S32,5,S7,-3
+Elmo Vangis,0,0,1,59,S10,5,S61,2,S42,1,S9,-3
+Capp. Vangis,0,0,1,34,S59,5,S61,4,S42,1,S18,-3
+Elmo Ranger,0,0,3,47,S62,2,S12,1,S52,1,S50,-3
+Capp. Ranger,0,0,3,26,S62,3,S12,3,S52,1,S50,-2
+Elmo Gilda S,1,0,1,44,S68,2,S69,3,S37,3,S50,-3
+Capp. Gilda S,1,0,1,24,S68,4,S69,3,S37,5,S50,-1
+Elmo Scalato S,2,0,1,44,S68,2,S69,3,S37,3,S50,-3
+Capp. Scalato S,2,0,1,24,S68,4,S69,3,S37,5,S50,-1
+Elmo Halloween S,1,0,2,32,S70,1,S55,2,S66,3,S14,-3
+Elmo Halloween S,2,0,2,32,S70,1,S55,2,S66,3,S14,-3
+Capp. Halloween S,1,0,2,16,S70,3,S55,4,S66,3,S60,-1
+Capp. Halloween S,2,0,2,16,S70,3,S55,4,S66,3,S60,-1
+Elmo Vaiku S,0,0,2,38,S9,3,S98,3,S88,1,S13,-2
+Capp. Vaiku S,0,0,2,20,S19,3,S98,4,S88,2,S17,-2
+Elmo Necrologio S,1,0,0,44,S35,2,S12,4,S41,3,S34,-4
+Capp. Necrologio S,1,0,0,24,S35,4,S12,5,S41,3,S34,-3
+Elmo Contadino S,2,0,0,44,S35,2,S12,4,S41,3,S34,-4
+Capp. Contadino S,2,0,0,24,S35,4,S12,5,S41,3,S34,-3
+Elmo Bocciolo,0,0,1,38,S37,4,S51,2,S69,2,S1,-3
+Capp. Fiore,0,0,1,20,S37,5,S51,4,S69,2,S1,-2
+Elmo Damascus,0,0,2,59,S10,4,S89,1,S13,2,S9,-2
+Capp. Damascus,0,0,2,34,S59,4,S21,3,S89,2,S18,-2
+Elmo Yamato Supremo,1,0,3,59,S70,1,S11,2,S12,1,S8,-3
+Capp. Mutsu Supremo,1,0,3,34,S70,3,S20,4,S12,1,S8,-1
+Elmo Hinata Supremo,2,0,3,59,S70,1,S11,2,S12,1,S8,-3
+Capp. Amagi Supremo,2,0,3,34,S70,3,S20,4,S12,1,S8,-1
+Elmo Akantor,0,0,2,62,S95,2,S35,3,S87,1,S34,-3
+Capp. Akantor,0,0,2,36,S95,3,S35,4,S87,1,S34,-3
+Elmo Ukanlos,0,0,2,62,S94,1,S11,4,S90,1,S70,-3
+Capp. Ukanlos,0,0,2,36,S94,4,S74,5,S90,1,S70,-1
+Elmo Escadora,0,0,0,62,S28,2,S72,5,S64,3,S56,-3
+Capp. Escadora,0,0,0,36,S28,4,S72,4,S64,4,S56,-3
+Elmo Tempesta,0,0,3,62,S84,1,S10,2,S88,1,S61,-3
+Capp. Tempesta,0,0,3,36,S84,1,S59,3,S88,2,S61,-3
+Maschera Gagua S,0,1,0,32,S53,15,S0,0,S0,0,S0,0
+Testa Gagua S,0,2,0,18,S53,15,S0,0,S0,0,S0,0
+Elmo Zuwaroposu S,0,0,1,32,S7,7,S40,4,S0,0,S0,0
+Capp. Zuwaroposu S,0,0,1,18,S7,7,S40,6,S0,0,S0,0
+Maschera Jaggi S,0,1,0,41,S47,10,S0,0,S0,0,S0,0
+Copricapo Jaggi S,0,2,0,22,S47,10,S0,0,S0,0,S0,0
+Maschera Bullfango S,0,1,0,38,S30,15,S0,0,S0,0,S0,0
+Copric. Bullfango S,0,2,0,20,S30,15,S0,0,S0,0,S0,0
+Faccia di Teschio S,0,1,0,41,ST,1,S0,0,S0,0,S0,0
+Testa di Teschio S,0,2,0,22,ST,1,S0,0,S0,0,S0,0
+Occhio Drago Imperat.,0,0,0,28,S51,15,S0,0,S0,0,S0,0
+Elmo Yuami Superiore,0,0,2,24,S50,3,S57,3,S32,-3,S0,0
+Elmo Ghianda,0,0,1,44,S29,8,S83,3,S0,0,S0,0
+Capp. Ghianda,0,0,1,24,S29,9,S83,4,S0,0,S0,0
+Orecchino Tre Occhi,0,0,3,14,S0,0,S0,0,S0,0,S0,0
+Mascara,0,0,0,28,S37,20,S0,0,S0,0,S0,0
+Elmo da Pirata J,0,0,1,26,S62,3,S50,2,S68,2,S34,-4
+Capp. da Pirata J,0,0,1,13,S62,4,S50,3,S68,3,S34,-3
+Faccia da Snake,1,0,2,47,S70,2,S67,3,S66,2,S30,-2
+Maschera da Snake,1,0,1,26,S59,3,S60,3,S66,4,S30,-3
+Faccia di The Boss,2,0,2,47,S49,2,S70,2,S51,3,S28,-2
+Maschera di The Boss,2,0,2,26,S49,3,S59,3,S51,4,S28,-1
+Elmo UNIQLO,0,0,2,47,S35,2,S64,3,S45,2,S61,-2
+Capp. UNIQLO,0,0,2,26,S35,3,S64,3,S45,3,S61,-2
+Orecchino Santo Spada,0,0,0,10,S11,10,S0,0,S0,0,S0,0
+Orecchino Sbarramento,0,0,0,10,S59,15,S0,0,S0,0,S0,0
+Orecchino Esplosivo,0,0,0,10,S29,10,S0,0,S0,0,S0,0
+Orecchino Amore,0,0,0,10,S37,20,S0,0,S0,0,S0,0
+Orecchino Estrazione,0,0,0,10,S65,10,S0,0,S0,0,S0,0
+Orecchino Silenzio,0,0,0,10,S35,15,S0,0,S0,0,S0,0
+Orecchino Evasione,0,0,0,10,S64,15,S0,0,S0,0,S0,0
+Orecchino Corto,0,0,0,10,S70,10,S0,0,S0,0,S0,0
+Orecchino Resistenza,0,0,0,10,S58,10,S0,0,S0,0,S0,0
+Orecchino Spada Demon.,0,0,0,10,S10,15,S0,0,S0,0,S0,0
+Orecchino Stinger,0,0,0,10,S94,10,S0,0,S0,0,S0,0
+Orecchino Pesante,0,0,0,10,S95,10,S0,0,S0,0,S0,0
+Orecchino KO,0,0,0,10,S96,10,S0,0,S0,0,S0,0
+Orecchino Serio,0,0,0,10,S84,10,S0,0,S0,0,S0,0
+Orecchino Risveglio,0,0,0,10,S84,15,S0,0,S0,0,S0,0
+Orecchino Avanzato,0,0,0,10,S99,10,S0,0,S0,0,S0,0
+Orecchino Ricarica,0,0,0,10,S17,15,S0,0,S0,0,S0,0
+Orecchino Riempiemento,0,0,0,10,S17,20,S0,0,S0,0,S0,0
+Orecchino Veloce,0,0,0,10,S98,10,S0,0,S0,0,S0,0
+Orecchino Fatica,0,0,0,10,S97,10,S0,0,S0,0,S0,0
+Orecchino Armaiolo,0,0,0,10,S83,10,S0,0,S0,0,S0,0
+Orecchino Cannoniere,0,0,0,10,S83,15,S0,0,S0,0,S0,0
+Orecchino Combo,0,0,0,10,S53,15,S0,0,S0,0,S0,0
+Orecchino Rabbia,0,0,0,10,S56,15,S0,0,S0,0,S0,0
+Orecchino Alimentare,0,0,0,10,S61,15,S0,0,S0,0,S0,0
+Orecchino Bestia,0,0,0,10,S28,10,S0,0,S0,0,S0,0
+Orecchino Destino,0,0,0,10,S7,15,S0,0,S0,0,S0,0

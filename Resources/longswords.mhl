@@ -1,0 +1,86 @@
+-
+Sp.Lun.Yukumo Antica,0,50,raw,0,yellowsharp
+Spada lunga Yukumo,0,70,raw,0,yellowsharp
+Spada lunga Yukumo+,0,90,raw,0,yellowsharp
+Spada grande Yukumo,0,130,raw,0,greensharp
+Sp.Lun.Croce insang.,0,120,poison 30,0,greensharp
+Sp.Lun.Croce insang+,0,150,poison 35,0,greensharp
+Spada lunga Veleno,0,170,poison 40,0,bluesharp
+Sp.Lun.Croce cremisi,0,170,thunder 26,10,bluesharp
+Sp.Lun.Eden perduto,0,190,thunder 30,15,bluesharp
+Katana di Ferro,0,80,raw,0,yellowsharp
+Katana Ferro "graz.",0,100,raw,0,greensharp
+Katana Ferro "gosp.",0,140,raw,0,greensharp
+Spada Lunga Nascosta,0,140,raw,40,bluesharp
+Spada Lunga Nascos.+,1,160,raw,40,bluesharp
+Sp.Lun.Ombra Lunare,2,180,raw,40,whitesharp
+Spada Lunga Killer,1,180,raw,0,whitesharp
+Spada Lunga Oscurità,1,200,raw,0,whitesharp
+Spada lunga Tigrex,0,170,raw,-20,bluesharp
+Spada Lunga Tigrex +,0,190,raw,-20,bluesharp
+Katana Distr. Tigrex,0,220,raw,0,whitesharp
+Spada lunga Catena,1,120,thunder 10,0,greensharp
+Spada lunga Catena +,1,170,thunder 12,0,greensharp
+Katana motosega Mass.,1,200,thunder 14,0,greensharp
+Spada lunga Gelo,0,120,ice 15,0,greensharp
+Katana Ghiacciolo,0,150,ice 22,0,greensharp
+Spada Lunga Tundra,0,200,ice 30,0,bluesharp
+Spada Lunga Aoashira,0,110,raw,0,yellowsharp
+Sp.Lun. Aoashira +,0,150,raw,0,greensharp
+Spada Lunga Grizzly,0,200,raw,0,greensharp
+Katana Terra,1,160,dragon 10 defense 8,0,greensharp
+Katana Maestosa,2,210,dragon 15 defense 16,0,bluesharp
+Spada lunga Montagna,0,180,raw,0,greensharp
+Spada Gran. Montagna,1,200,raw,0,bluesharp
+Spada Lunga Natura,1,220,raw,0,bluesharp
+Sp.Lun.Bastone Acqu.,1,130,water 14 defense 8,0,greensharp
+Sp.Lun.Bastone Acqu+,2,170,water 16 defense 10,0,greensharp
+Katana Disco,2,190,water 27 defense 12,0,bluesharp
+Katana Sepoltura,1,190,poison 20,0,greensharp
+Katana Debilitante,1,210,poison 25,0,greensharp
+Katana Osso lupo,0,90,raw,0,greensharp
+Katana Osso squalo,0,120,raw,0,greensharp
+Katana Osso anata,0,110,paralysis 15,0,greensharp
+Katana Osso anata +,0,130,paralysis 21,0,greensharp
+Katana Osso Kagenui,1,150,paralysis 28,0,bluesharp
+Katana Osso Guaruga,2,190,raw,0,greensharp
+Katana Osso Kageta.,2,210,raw,0,bluesharp
+Sp.Lun.Fuoco danz.,0,140,fire 25,15,bluesharp
+Sp.Lun.Fuoco infer.,0,180,fire 35,25,whitesharp
+Sp.Lun.Fuoco Gemello,0,160,fire 18,0,greensharp
+Sp.Lun.Fiammata gem.,1,170,fire 22,0,greensharp
+Katana Inferno gem.,1,190,fire 24,0,bluesharp
+Katana Mercurio,2,210,fire 26,0,bluesharp
+Sp.Lun.Diapason,0,170,defense 20,0,greensharp
+Sp.Lun.Diapason +,0,200,defense 30,0,greensharp
+Sp.Lun.Greenfolk,0,230,defense 40,0,greensharp
+Katana potenza crom.,0,210,defense 20,-20,bluesharp
+Katana Brutal. crom.,0,240,defense 20,-30,bluesharp
+Spada Lunga Furogi,2,100,poison 18,0,yellowsharp
+Spada Lunga Furogi+,2,130,poison 20,0,greensharp
+Katana tossica,2,180,poison 24,0,greensharp
+Spada Lunga Barbaro,0,160,water 18,10,greensharp
+Spada Lunga barbaro+,0,180,water 21,15,greensharp
+Spada Grande Barbaro,0,200,water 25,20,bluesharp
+Katana Dolore,0,180,dragon 18,10,bluesharp
+Katana Calamità,0,200,dragon 23,10,bluesharp
+Sp.Lun.Mangia vento,1,130,raw,0,greensharp
+Sp.Lun.Sonica,2,140,raw,0,greensharp
+Spada Lunga zaffiro,3,190,raw,15,bluesharp
+Spada Lunga Sardina,0,70,water 22,0,greensharp
+Sp.Lun.Sardina +,0,110,water 30,0,greensharp
+Spada Lunga Sgombro,0,160,water 40,0,greensharp
+Katana Yukumo vera,0,160,raw,0,greensharp
+Katana Yukumo+ vera,0,190,raw,0,greensharp
+Katana Yukumo perf.,0,210,raw,0,bluesharp
+Sp.Lun.Re fulmine,1,160,thunder 20,0,greensharp
+Katana Dio fulmine,1,210,thunder 24,0,bluesharp
+Katana Armageddon,0,240,water 12,-20,bluesharp
+Katana Akantor,0,250,raw,30,greensharp
+Katana Ukanlos,0,250,ice 14,-20,greensharp
+Sp.Lun.Artiglio os.,1,170,dragon 28,0,whitesharp
+Katana Morte,2,190,dragon 34,0,whitesharp
+Katana Tessaiga,3,150,raw,0,greensharp
+Katana Tessaiga D,3,200,raw,0,bluesharp
+Katana Lucente,2,190,thunder 35,0,bluesharp
+Katana del Supremo,0,160,dragon 40,0,bluesharp

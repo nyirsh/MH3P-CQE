@@ -1,0 +1,67 @@
+-
+Ant. Bal. Pes. Yuk.,0,50,turretnrmlv1,0,slowreload medrecoil nodeviation
+Balestra Pes. Yukumo,0,80,turretnrmlv1,0,slowreload medrecoil nodeviation
+Fucile d'Osso,0,90,turretnrmlv1,0,slowreload medrecoil nodeviation
+Bal. Rotta Yukumo,0,100,turretnrmlv1,0,slowreload medrecoil nodeviation
+Tubo Orso Blu,0,120,turretpelletlv1,0,slowreload medrecoil leftdeviation
+Fucile d'Osso+,1,100,turretnrmlv1,0,slowreload medrecoil nodeviation
+Devastatore d'Osso,1,110,turretnrmlv1,0,slowreload medrecoil nodeviation
+Grande Slitta,0,140,turretice,10,normalreload medrecoil nodeviation
+Becco Irritante,1,160,turretpelletlv1 turretfire,0,normalreload medrecoil rightdeviation
+Fucile Zucca,2,120,turretnrmlv3 turretsleeplv1,0,slowreload lowrecoil nodeviation
+Adunata Blu,1,120,turretslicing,0,slowreload medrecoil nodeviation
+Regina Drago [Lunga],0,150,turretfire turretpoisonlv1,0,slowreload medrecoil nodeviation
+Distrutt. Orso Blu,0,150,turretpelletlv1 turretparalysislv1,0,slowreload medrecoil leftdeviation
+Can. Pes. 46 Art. I,0,140,turretnrmlv3 turretwater,0,slowreload medrecoil nodeviation
+Becco Irritante +,1,140,turretpelletlv1 turretfire,0,normalreload medrecoil rightdeviation
+Meteorite,1,140,turretpiercelv2 turretslicing,0,slowreload medrecoil nodeviation
+Vera Bal. Pes. Yuk.,2,160,turretnrmlv3 turretpelletlv1,0,slowreload medrecoil nodeviation
+Regina Drago [Fuc.],1,170,turretfire turretpoisonlv1,0,slowreload medrecoil nodeviation
+Grande Slitta +,0,160,turretpiercelv2 turretice,10,normalreload medrecoil nodeviation
+Kit Becco,2,160,turretpelletlv1 turretfire,10,normalreload medrecoil rightdeviation
+Cannone da Viaggio,0,160,turretthunder turretslicing turretparalysislv1,10,slowreload medrecoil nodeviation
+Cecchino Nascosto,0,130,turretpiercelv2 turretslicing,40,normalreload lowrecoil nodeviation
+Fucile Zucca +,2,150,turretnrmlv3 turretsleeplv1,0,slowreload lowrecoil nodeviation
+Can. Pes. 46 Art. II,1,160,turretnrmlv3 turretwater,0,slowreload medrecoil nodeviation
+Sradicatore Duello,0,180,turretnrmlv2 turretnrmlv3 turretpiercelv1,-15,quickreload lowrecoil leftdeviation
+Relitto Suharu,1,170,turretnrmlv3 turretcraglv1 turretclusterlv1,-20,slowreload medrecoil nodeviation
+Soffio di Fuoco,0,160,turretfire,0,slowreload medrecoil nodeviation
+Pistolacqua [Prot.],0,160,turretcraglv1 turretcraglv2,15,slowreload lowrecoil nodeviation
+Can. Min. Montagna,1,170,turretwater turretexhaustlv1,0,slowreload medrecoil nodeviation
+Bal. Pes. Mont. Yuk.,3,190,turretnrmlv3 turretpiercelv2 turretpelletlv1,0,slowreload medrecoil nodeviation
+Tubo Rugg. Orso Blu,0,200,turretpelletlv1 turretparalysislv1 turretexhaustlv2,0,slowreload medrecoil nodeviation
+Can. Pes. 46 Art.III,1,180,turretnrmlv3 turretwater,0,slowreload medrecoil nodeviation
+Sradicatore Duello +,0,200,turretnrmlv2 turretnrmlv3 turretpiercelv1 turretpiercelv2,-15,quickreload lowrecoil leftdeviation
+Can. Eruzione Luce,2,180,turretpiercelv2 turretslicing,0,slowreload medrecoil nodeviation
+Pistolac. Fuoco[Pr.],0,180,turretcraglv1 turretcraglv2 turretcraglv3,15,slowreload lowrecoil nodeviation
+Regina Drago [Can.],2,200,turretfire turretpoisonlv2,0,slowreload medrecoil nodeviation
+Grande Slitta Ping.,0,170,turretpiercelv2 turretpiercelv3 turretice,0,normalreload medrecoil nodeviation
+Fucile Console,0,190,turretpiercelv2 turretpiercelv3 turretice,20,normalreload medrecoil nodeviation
+Tubo Orso Blu [Rug.],0,210,turretpelletlv1 turretparalysislv1 turretexhaustlv2,0,slowreload medrecoil leftdeviation
+Pistola Subacquea,1,200,turretnrmlv3 turretwater turretpoisonlv1,0,slowreload medrecoil nodeviation
+Kit Becco +,2,190,turretpelletlv1 turretfire turretthunder,10,slowreload medrecoil nodeviation
+Fucile Automatico,2,210,turretpelletlv1 turretfire turretthunder,15,slowreload medrecoil nodeviation
+Pistola Aria [Osc.],0,170,turretpiercelv2 turretpiercelv3 turretslicing,40,normalreload lowrecoil nodeviation
+Cecchino Nascosto +,1,180,turretpiercelv2 turretpiercelv3 turretslicing turretexhaustlv1,40,normalreload lowrecoil nodeviation
+Distrutt. Infuocato,0,190,turretcraglv2 turretfire,0,slowreload medrecoil nodeviation
+Fucile Miniera,1,200,turretpiercelv3 turretwater turretexhaustlv1,0,slowreload medrecoil nodeviation
+Meteocannone,3,210,turretpiercelv2 turretice turretslicing,0,slowreload medrecoil nodeviation
+Grande Sparo,0,220,turretfire turretice turretdragon,-10,slowreload medrecoil nodeviation
+Canna Giovane,3,200,turretnrmlv3 turretsleeplv2,0,slowreload lowrecoil nodeviation
+Meteora,2,200,turretpiercelv2 turretclusterlv2 turretslicing,0,slowreload medrecoil nodeviation
+Can. Zan.Tuono[Mon.],0,220,turretthunder turretslicing turretparalysislv1,10,slowreload medrecoil nodeviation
+Pist.Temp.Ven.[Osc.],1,190,turretpiercelv2 turretpiercelv3 turretslicing turretexhaustlv1,50,normalreload lowrecoil nodeviation
+Canna Ronzio,0,230,turretnrmlv2 turretnrmlv3 turretpiercelv1 turretpiercelv2 turretpiercelv3,-25,quickreload lowrecoil leftdeviation
+Canna Nera,0,240,turretnrmlv1 turretnrmlv2 turretnrmlv3,-10,slowreload lowrecoil rightdeviation
+Relitto Suharu +,1,210,turretnrmlv3 turretcraglv1 turretclusterlv1,-20,slowreload medrecoil nodeviation
+Testa Tig.Rug.[Can.],2,230,turretnrmlv3 turretcraglv1 turretclusterlv2,-20,slowreload medrecoil nodeviation
+Fucile d'Assalto,0,200,turretcraglv2 turretfire,0,slowreload medrecoil nodeviation
+Pistola Congelante,0,200,turretwater turretice,0,slowreload medrecoil nodeviation
+Pist.Fatt.Mar.[Leg.],0,210,turretcraglv1 turretcraglv2 turretcraglv3,15,slowreload lowrecoil nodeviation
+Regina Drago [Div.],3,220,turretpiercelv1 turretfire turretpoisonlv2,0,slowreload medrecoil nodeviation
+Can. Miniera [Lungo],1,230,turretpiercelv3 turretwater turretexhaustlv1,0,slowreload medrecoil nodeviation
+Canna Gigante,0,240,turretfire turretice turretdragon,-10,slowreload medrecoil nodeviation
+Artigl. Supr. Vigore,0,220,turretnrmlv2 turretnrmlv3 turretpiercelv1 turretcraglv3,40,slowreload medrecoil leftdeviation
+Pala del Collasso,0,260,turretclusterlv2 turretice,-30,slowreload medrecoil rightdeviation
+Ala del Caos,2,220,turretfire turretwater turretthunder turretice,0,normalreload medrecoil nodeviation
+Tempo del Male,1,230,turretpiercelv2 turretpelletlv2 turretwater turretparalysislv2,-5,quickreload lowrecoil nodeviation

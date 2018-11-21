@@ -1,0 +1,81 @@
+-
+Arco Yukumo Antico,0,50,raw,0,spread rapid 2
+Arco Yukumo,0,70,raw,0,spread rapid 2
+Arco Bnahabra,1,90,raw,5,focused pierce 2
+Arco da Caccia I,0,80,defense 5,0,spread rapid 2
+Arco Yukumo Devast.,0,100,raw,0,spread rapid 3
+Revolver Furogi I,0,120,poison,0,explosive rapid 3
+Arco Spugna I,0,90,water 12,0,spread pierce 2
+Arco Mostro,1,110,raw,5,focused pierce 3
+Arco da Caccia II,0,100,defense 8,0,spread rapid 2
+Arco Sonoro Bambu',0,70,water 20,0,focused rapid 2
+Canna Quru,1,120,fire 16,0,spread scatter 2
+Revolver Furogi II,0,150,poison sleep,0,explosive rapid 3
+Arco Spugna II,0,120,water 18,0,spread pierce 3
+Rogo Bnahabra,1,120,fire 12,5,focused pierce 3
+Neve Bnahabra,1,120,ice 10,5,focused pierce 3
+Tuono Bnahabra,1,120,thunder 8,5,focused rapid 3
+Arco da Caccia III,0,130,defense 10,0,spread rapid 3
+Arco Grande Mostro,1,130,raw,0,explosive rapid 3 pierce 4
+Revolver Furogi III,0,150,poison sleep,0,explosive rapid 3
+Rogo Bnahabra +,1,130,fire 24,5,focused pierce 3
+Neve Bnahabra +,1,130,ice 20,5,focused pierce 3
+Tuono Bnahabra +,1,130,thunder 16,5,focused rapid 3
+Fucile 64 Canne I,0,140,water 16,0,spread rapid 3
+Fulmine Regina I,1,160,poison,0,focused scatter 3
+Arco Mostro Oscuro,1,150,raw,0,explosive rapid 3 pierce 4
+Arco Bambu' [Anz.],0,70,water 27,0,focused rapid 2
+Vero Arco Yukumo,2,170,raw,0,spread rapid 3
+Canna QuruQuru,1,130,fire 22,0,spread scatter 3
+Arco Spugna III,0,140,water 25,0,spread pierce 3
+Fulmine Regina II,1,170,poison,0,focused scatter 3
+Re del Fulmine I,1,150,thunder 23,0,spread pierce 3
+Zanna Gelida I,1,140,ice 24,20,spread rapid 3
+Corda di Ottone I,0,170,fire 10 sleep defense 10,0,explosive rapid 2
+Arco Nascosto I,1,150,raw,40,spread pierce 3
+Fucile 64 Canne II,0,150,water 20,0,spread rapid 3
+Corda di Ottone II,0,190,fire 18 sleep defense 12,0,explosive rapid 2
+Baffo Tigrex,0,180,raw,-20,explosive rapid 4
+Corno Colabrodo I,0,190,defense 6,-5,focused pierce 3 pierce 4
+Proiettile Sonoro,2,170,raw,0,explosive rapid 3
+Dune del Deserto,1,150,dragon 23,0,spread scatter 4
+Cannone Alcalino,2,180,raw,0,explosive rapid 3 pierce 4
+Arco Spezz.Yuk.[Sp.],2,220,raw,0,spread rapid 3
+Canna QuruQuruQuru,1,150,fire 27,0,spread scatter 4
+Canna Decisiva,0,210,poison sleep,0,explosive rapid 4
+Ingran. Ametista I,1,170,water 26 poison,0,spread pierce 3
+Inferno Bnahabra,2,170,fire 35,5,focused pierce 3
+Tormenta Bnahabra,2,170,ice 29,5,focused pierce 3
+Fulmine Bnahabra,2,170,thunder 24,5,focused rapid 3
+Super Arco Cacc. I,2,210,defense 16,0,spread rapid 3
+Arco Nascosto II,1,190,raw,40,spread pierce 3
+Strage,1,160,fire 33,0,spread scatter 4
+Ingran. Ametista II,1,180,water 28,0,spread pierce 3
+Super Arco Cacc. II,2,220,defense 20,0,spread rapid 4
+Fucile 64 Canne III,0,180,water 24,0,spread rapid 3
+Fulmine Regina III,1,220,poison,0,focused scatter 4
+Re del Fulmine II,1,180,thunder 27,0,spread pierce 3
+Zanna Gelida II,1,170,ice 23,20,spread rapid 3
+Arco del Lord,1,210,raw,10,focused rapid 3 rapid 4
+Corda di Ottone III,0,220,fire 22 sleep defense 16,0,explosive rapid 2
+Ombra Sigill. [Osc.],2,220,raw,40,spread pierce 4
+Arco Gilley,2,210,raw,20,focused pierce 2 pierce 3
+Canna Fonte,2,230,raw,0,spread rapid 4 pierce 4
+Proiett. Osc. Caduno,3,210,raw,0,explosive rapid 4
+Arco Son.Nott.[Gaya],0,70,water 40,0,focused rapid 2
+Corda Scafo,1,190,water 30 poison,0,spread pierce 4
+Scorpione Sporco,0,200,water 29,0,spread rapid 3
+Arco Zan.Ful.[Giov.],1,200,thunder 31,0,spread pierce 4
+Agente Cancellante,1,180,ice 28,30,spread rapid 4
+Flusso Liberato,1,230,raw,15,focused rapid 3 rapid 4
+Arco Pesante,0,240,fire 25 sleep defense 24,0,explosive rapid 2
+Esplos. Sig. [Osc.],2,230,raw,20,focused pierce 3 pierce 4
+Tigre Ruggente[Arco],0,240,raw,-20,explosive rapid 5
+Corno Colabrodo II,0,250,defense 12,-10,focused pierce 3 pierce 4
+Grande Arco Corno,0,270,defense 16,-10,focused pierce 3 pierce 5
+Arco Dune Sab.[Des.],1,180,dragon 25,0,spread scatter 4
+Dente Penetrante,1,230,fire 20 poison,0,focused scatter 4
+Arco Onde Sab.[Des.],1,200,dragon 28,0,spread scatter 4
+Fucile Supremazia,0,210,dragon 23,0,explosive (rapid 4)
+Arco Pala Collasso,0,270,ice 9,-30,spread pierce 4
+Arc.Temp.Nott.[Pic.],1,250,water 11,-10,focused scatter 4 pierce 4

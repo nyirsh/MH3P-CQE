@@ -1,0 +1,86 @@
+-
+Vecchio Corn. Yukumo,0,50,whtnote|blunote|rednote,0,yellowsharp
+Corno Yukumo,0,70,whtnote|blunote|rednote,0,yellowsharp
+Corno Yukumo +,0,90,whtnote|blunote|rednote,0,yellowsharp
+Corno bruno Yukumo,0,130,whtnote|blunote|rednote,0,greensharp
+Campana di Rathian,0,120,whtnote|blunote|ylwnote fire 25,0,greensharp
+Campana di Rathian +,0,150,whtnote|blunote|ylwnote fire 30,0,greensharp
+Campana della Regina,1,170,purnote|blunote|ylwnote fire 40,0,greensharp
+Campana Luna Dorata,1,210,purnote|blunote|ylwnote dragon 28,0,greensharp
+Cornamusa di metallo,1,80,whtnote|azrnote|rednote defense 10,0,yellowsharp
+Cornamusa metallo +,1,110,whtnote|azrnote|rednote defense 12,0,yellowsharp
+Gran Cornamusa,1,140,whtnote|azrnote|rednote defense 15,0,greensharp
+Cornamusa pesante,1,170,whtnote|azrnote|rednote defense 20,-5,greensharp
+Cornamusa pesante +,1,180,purnote|azrnote|rednote defense 25,-5,greensharp
+Vera Cornamusa pes.,1,200,purnote|azrnote|rednote defense 25,-5,bluesharp
+Corno osso duro,2,200,purnote|ylwnote|blunote,0,greensharp
+Corno osso duro +,2,210,purnote|ylwnote|blunote,0,greensharp
+Corno osso pesante,2,230,purnote|ylwnote|blunote,0,greensharp
+Tono nascosto,2,140,whtnote|blunote|azrnote,40,bluesharp
+Flauto della notte,0,180,purnote|blunote|azrnote,40,whitesharp
+Saxofono piuma,1,130,whtnote|azrnote|grnnote fire 12,0,greensharp
+Saxofono Qurupeco,1,160,whtnote|azrnote|grnnote fire 15,0,greensharp
+Saxofono Qurupeco +,2,190,purnote|azrnote|grnnote fire 18,0,bluesharp
+Fisarmonica a Bokka,0,140,whtnote|blunote|azrnote water 20 defense 16,0,greensharp
+Fisarm. Hapurubokka,0,190,purnote|blunote|azrnote water 22 defense 18,0,greensharp
+Fisarm. Hapuru.Cerim,0,210,purnote|blunote|azrnote water 30 defense 22,0,bluesharp
+Corn.chiasso Barroth,0,140,whtnote|rednote|grnnote,-5,greensharp
+Corn. verso Barroth,0,160,whtnote|rednote|grnnote,-10,greensharp
+Corn. sabbie Barroth,0,210,purnote|rednote|grnnote,-30,bluesharp
+Corn. Barroth ghiac.,2,180,purnote|rednote|ylwnote,-20,greensharp
+Corn. Età glaciale,2,200,purnote|rednote|orgnote,-25,bluesharp
+Fisarm. Agnaktor,0,140,whtnote|azrnote|ylwnote fire 35,15,bluesharp
+Fisarm. Agnaktor +,0,160,purnote|azrnote|ylwnote fire 42,25,bluesharp
+Fisarm.Agnaktor lava,0,180,purnote|azrnote|ylwnote fire 45,35,bluesharp
+Tamburello Aoshira,0,120,whtnote|rednote|ylwnote,0,yellowsharp
+Tamb. Aoshira cielo,0,150,whtnote|rednote|ylwnote,0,yellowsharp
+Tamb. Aoshira mare,0,200,purnote|rednote|ylwnote,0,greensharp
+Dragonga a strisce,0,160,whtnote|rednote|azrnote,-20,bluesharp
+Tamburello di Tigrex,0,170,purnote|rednote|azrnote,-20,bluesharp
+Tamb. Ruggito Tigrex,0,200,purnote|rednote|azrnote,-20,whitesharp
+Tamb. Tigrex nero,2,200,purnote|grnnote|azrnote,-20,bluesharp
+Tamb. demone Tigrex,2,220,purnote|grnnote|orgnote,-20,bluesharp
+Lira Zanne di ghiac.,0,140,whtnote|azrnote|blunote ice 30,20,greensharp
+Lira Zanne ghiac. +,0,160,purnote|azrnote|blunote ice 36,20,bluesharp
+Lira Barioth,0,190,purnote|azrnote|blunote ice 40,25,bluesharp
+Saxofono Uragaan,0,170,whtnote|rednote|blunote defense 30,0,yellowsharp
+Saxofono Uragaan +,0,190,purnote|rednote|blunote defense 35,0,greensharp
+Sax. Uragaan brutale,0,210,purnote|rednote|blunote defense 40,0,greensharp
+Sax. Uragaan acciaio,1,200,purnote|blunote|grnnote fire 15 defense 20,0,greensharp
+Sax. Uragaan acc. +,1,220,purnote|blunote|grnnote fire 20 defense 30,0,greensharp
+Autoparl. Ludroth,1,120,whtnote|blunote|grnnote water 32,0,greensharp
+Autoparl. Ludroth +,1,150,whtnote|blunote|grnnote water 38,0,greensharp
+Autop. Ludroth Reale,1,180,purnote|blunote|grnnote water 42,0,bluesharp
+Corn. Cassa nera,1,130,whtnote|azrnote|rednote poison 25,0,greensharp
+Corn. suono d'Ombra,1,150,purnote|azrnote|rednote poison 32,0,greensharp
+Corn. Cassa veleno,1,170,purnote|azrnote|rednote poison 38,0,bluesharp
+Corn. Cassa paralisi,0,150,purnote|azrnote|grnnote paralysis 10,0,bluesharp
+Corn. Cassa Sang.par,0,170,purnote|azrnote|orgnote paralysis 16,0,bluesharp
+Violoncello Bnahabra,0,80,whtnote|grnnote|ylwnote,0,greensharp
+Violonc. Bnahabra +,0,100,whtnote|grnnote|ylwnote,0,greensharp
+Violonc.Bnahab.Ghiac,0,120,whtnote|grnnote|ylwnote ice 8,0,greensharp
+Violonc.Bnahab.Gelo,1,170,purnote|grnnote|ylwnote ice 12,0,bluesharp
+Violonc.Bnahab.Saett,1,120,whtnote|ylwnote|azrnote thunder 8,0,greensharp
+Violonc.Bnahab.Tuono,2,170,purnote|ylwnote|azrnote thunder 12,0,bluesharp
+Violonc.Bnahab.Par,0,90,whtnote|rednote|ylwnote paralysis 12,0,yellowsharp
+Violonc.Bnahab.Par +,1,110,whtnote|rednote|ylwnote paralysis 18,0,greensharp
+Viol.Ali Bnahab. Par,1,130,purnote|rednote|ylwnote paralysis 24,0,greensharp
+Corno antico,0,110,purnote|rednote|azrnote,-70,yellowsharp
+Corno lucidato,0,110,purnote|rednote|azrnote,-70,yellowsharp
+Corno di Gael,0,180,purnote|rednote|azrnote dragon 35 defense 15,0,bluesharp
+Camp. Grillo rosa,0,90,whtnote|grnnote|azrnote dragon 20,0,greensharp
+Camp. Grillo Drago,0,190,purnote|grnnote|azrnote dragon 40,0,bluesharp
+Ocarina alta marea,2,80,whtnote|grnnote|blunote,20,greensharp
+Ocarina alta marea +,3,150,whtnote|grnnote|blunote,30,greensharp
+Ocar. soffio oceano,3,170,purnote|grnnote|blunote,35,greensharp
+Vero Corno Yukumo,0,150,whtnote|blunote|rednote,0,greensharp
+Vero Corno Yukumo +,0,170,purnote|blunote|rednote,0,greensharp
+Corn.Annivers.Yukumo,0,190,purnote|blunote|rednote,0,bluesharp
+Chit. elet. Lupo,1,150,whtnote|rednote|blunote thunder 28,0,greensharp
+Chit. elet. Jinuoga,1,190,purnote|rednote|orgnote thunder 34,0,greensharp
+Liuto Drago Tempesta,0,240,purnote|ylwnote|orgnote water 16,-20,bluesharp
+Corno di Akantor,0,250,purnote|blunote|orgnote,40,greensharp
+Flauto-corno Ukanlos,0,250,purnote|ylwnote|orgnote ice 16 defense 15,-20,greensharp
+Pianorgano Tuonante,0,140,whtnote|grnnote|rednote thunder 36,0,greensharp
+Pianorgano Jinouga,0,180,purnote|grnnote|rednote thunder 40,0,bluesharp
+Camp. Grillo rosa +,0,130,whtnote|grnnote|azrnote dragon 30,0,greensharp

@@ -1,0 +1,213 @@
+
+Parabr. Yukumo,0,0,1,1,S34,2,S6,2,S12,1,S0,0
+Parabr. di Cuoio,0,0,1,1,S47,3,S47,3,S6,1,S0,0
+Parabr. di Maglia,0,0,1,2,S7,4,S53,1,S54,2,S0,0
+Parabr. Cacciatore,0,1,1,6,S85,2,S51,3,S66,2,S1,-2
+Protez. Cacciatore,0,2,1,3,S85,2,S51,3,S66,2,S1,-2
+Parabr. d'Osso,0,1,1,8,S82,2,S47,4,S96,1,S3,-2
+Protez. d'Osso,0,2,1,4,S82,4,S47,1,S96,2,S3,-2
+Parabr. in Lega,0,1,1,8,S46,1,S12,4,S13,1,S47,-3
+Protez. in Lega,0,2,1,4,S21,2,S17,2,S24,3,S47,-2
+Parabr. Bnahabra,0,1,2,10,S27,1,S98,4,S49,1,S32,-1
+Protez. Bnahabra,0,2,2,5,S27,1,S98,3,S49,1,S32,-2
+Parabr. Rhenoplos,0,1,1,10,S99,1,S83,3,S42,-1,S33,4
+Protez. Rhenoplos,0,2,1,5,S99,1,S83,2,S42,-2,S33,4
+Parabr. Jaggi,0,1,1,12,S32,3,S69,2,S8,3,S57,-1
+Protez. Jaggi,0,2,1,6,S32,3,S69,2,S8,2,S57,-2
+Parabr. Aoashira,0,1,1,12,S31,3,S33,3,S4,2,S2,-1
+Protez. Aoashira,0,2,1,6,S31,2,S33,3,S4,3,S2,-1
+Parabr. d'Acciaio,0,1,0,14,S33,5,S13,4,S76,2,S0,0
+Parabr. Furogi,0,1,1,14,S67,2,S69,3,S1,2,S4,-2
+Protez. Furogi,0,2,1,7,S67,3,S69,2,S1,2,S4,-2
+Parabr. Urukususu,0,1,1,14,S55,1,S45,4,S44,-2,S98,2
+Protez. Urukususu,0,2,1,7,S55,2,S45,3,S44,-2,S98,2
+Parabr. Qurupeco,0,1,1,12,S37,1,S51,4,S52,2,S61,-2
+Protez. Qurupeco,0,2,1,6,S37,2,S51,3,S52,2,S61,-2
+Parabr. Ludroth,0,1,1,14,S58,1,S30,2,S41,-2,S97,4
+Protez. Ludroth,0,2,1,7,S58,1,S30,2,S41,-2,S97,4
+Parabr. Barroth,0,1,1,16,S14,1,S96,4,S67,-1,S32,3
+Protez. Barroth,0,2,1,8,S19,3,S60,2,S67,-1,S32,3
+Parabr. Lingotto,0,1,1,20,S46,1,S89,4,S6,-1,S63,3
+Protez. Lingotto,0,2,1,10,S21,1,S89,4,S6,-1,S23,3
+Parabr. Baggi,0,1,1,16,S32,3,S90,1,S8,4,S39,-1
+Protez. Baggi,0,2,1,8,S32,1,S90,4,S8,2,S39,-2
+Parabr. Rangurotora,0,1,0,16,S55,4,S39,2,S45,-1,S63,4
+Protez. Rangurotora,0,2,0,8,S55,2,S39,4,S45,-1,S54,4
+Parabr. Rathian,0,1,0,18,S7,2,S34,3,S87,4,S8,-2
+Protez. Rathian,0,2,0,9,S7,3,S34,2,S87,4,S8,-2
+Parabr. Hapurubokka,0,1,1,18,S61,4,S88,1,S31,3,S30,-1
+Protez. Hapurubokka,0,2,1,9,S61,4,S88,1,S31,3,S30,-1
+Parabr. Gigginox,0,1,1,18,S27,1,S41,3,S4,3,S7,-2
+Protez. Gigginox,0,2,1,9,S27,1,S41,2,S4,3,S7,-3
+Parabr. Nargacuga,0,1,2,20,S64,2,S99,2,S49,2,S32,-1
+Protez. Nargacuga,0,2,2,10,S64,2,S99,1,S49,3,S32,-1
+Parabr. Barioth,0,1,0,20,S58,2,S67,4,S90,3,S99,-2
+Protez. Barioth,0,2,0,10,S58,1,S67,3,S90,5,S99,-2
+Parabr. Rathalos,0,1,2,22,S94,2,S32,2,S87,1,S52,-2
+Protez. Rathalos,0,2,2,11,S94,2,S32,1,S87,2,S52,-2
+Parabr. Uragaan,0,1,2,22,S71,2,S33,3,S39,1,S40,-1
+Protez. Uragaan,0,2,2,11,S20,2,S33,1,S39,2,S40,-2
+Parabr. Jinouga,0,1,1,22,S84,2,S89,3,S9,3,S49,-1
+Protez. Jinouga,0,2,1,11,S84,2,S89,3,S19,3,S49,-1
+Parabr. Diablos,0,1,2,24,S65,2,S97,1,S63,1,S27,-3
+Protez. Diablos,0,2,2,12,S20,1,S22,1,S97,4,S27,-1
+Parabr. Tigrex,0,1,0,24,S35,3,S51,4,S31,1,S34,-3
+Protez. Tigrex,0,2,0,12,S35,3,S51,3,S31,2,S34,-3
+Parabr. Agnaktor,0,1,2,24,S14,2,S9,1,S12,1,S56,-3
+Protez. Agnaktor,0,2,2,12,S19,1,S23,1,S60,2,S56,-3
+Parabr. Doboruberuku,0,1,1,24,S95,3,S56,1,S32,4,S12,-1
+Protez. Doboruberuku,0,2,1,12,S95,3,S56,3,S18,1,S12,-2
+Parabr. Gilda,1,1,0,20,S68,4,S69,2,S37,3,S50,-2
+Protez. Gilda,1,2,0,10,S68,3,S69,4,S37,1,S50,-3
+Parabr. Scalati,2,1,0,20,S68,4,S69,2,S37,3,S50,-2
+Protez. Scalate,2,2,0,10,S68,3,S69,4,S37,1,S50,-3
+Parabr. Halloween,1,1,1,16,S70,3,S57,2,S66,3,S14,-1
+Parabr. Halloween,2,1,1,16,S70,3,S57,2,S66,3,S14,-1
+Protez. Halloween,1,2,1,8,S70,2,S57,3,S66,2,S60,-2
+Protez. Halloween,2,2,1,8,S70,2,S57,3,S66,2,S60,-2
+Parabr. Vaiku,0,1,2,14,S9,1,S8,3,S40,1,S13,-2
+Protez. Vaiku,0,2,2,7,S19,2,S8,2,S40,1,S17,-2
+Parabr. Necrologio,1,1,1,18,S35,3,S12,4,S41,1,S34,-1
+Protez. Necrologio,1,2,1,9,S35,3,S12,3,S41,1,S34,-2
+Parabr. da Contadino,2,1,1,18,S35,3,S12,4,S41,1,S34,-1
+Protez. da Contadino,2,2,1,9,S35,3,S12,3,S41,1,S34,-2
+Parabr. Arrugginiti,0,1,0,20,S11,5,S15,1,S13,-5,S0,0
+Protez. Arrugginite,0,2,0,10,S74,5,S18,1,S17,-5,S0,0
+Parabr. Yamato,1,1,0,26,S10,3,S70,3,S12,3,S9,-2
+Protez. Mutsu,1,2,0,13,S59,3,S70,4,S12,2,S18,-2
+Parabr. Hinata,2,1,0,26,S10,3,S70,3,S12,3,S9,-2
+Protez. Amagi,2,2,0,13,S59,3,S70,4,S12,2,S18,-2
+Parabr. Yuami,0,0,1,8,S50,3,S57,2,S32,-4,S0,0
+Parabr. Yukumo (Cielo),0,1,2,28,S34,3,S6,1,S52,2,S13,3
+Protez. Yukumo (Terra),0,2,2,14,S34,3,S6,2,S52,1,S60,3
+Parabr. di Cuoio S,0,1,1,28,S47,4,S47,1,S6,4,S30,2
+protez. Cuoio S,0,2,1,14,S47,1,S47,3,S6,4,S30,3
+Parabr. di Maglia S,0,1,2,28,S7,4,S53,4,S54,1,S0,0
+Protez. di Maglia S,0,2,2,14,S7,3,S53,4,S22,2,S0,0
+Parabr. Cacciatore S,0,1,1,30,S85,2,S66,4,S1,-1,S69,4
+Protez. Cacciatore S,0,2,1,15,S85,1,S66,4,S1,-2,S69,4
+Parabr. d'Osso S,0,1,2,30,S52,2,S96,1,S3,-3,S82,3
+Protez. d'Osso S,0,2,2,15,S52,2,S96,3,S3,-1,S82,3
+Parabr. in Lega S,0,1,1,30,S46,3,S12,5,S13,2,S47,-1
+Protez. in Lega S,0,2,1,15,S21,1,S24,2,S12,5,S47,-3
+Parabr. Bnahabra S,0,1,1,32,S27,3,S11,2,S2,2,S32,-4
+Protez. Bnahabra S,0,2,1,16,S27,1,S17,5,S2,1,S32,-4
+Parabr. Rhenoplos S,0,1,1,32,S99,3,S83,4,S5,2,S4,-2
+Protez. Rhenoplos S,0,2,1,16,S99,3,S83,4,S60,1,S4,-3
+Parabr. Jaggi S,0,1,2,35,S32,4,S12,1,S8,2,S57,-2
+Protez. Jaggi S,0,2,2,18,S32,4,S12,1,S8,1,S57,-3
+Parabr. Aoashira S,0,1,1,35,S34,3,S33,3,S4,3,S2,-2
+Protez. Aoashira S,0,2,1,18,S34,3,S33,2,S4,3,S2,-3
+Parabr. d'Acciaio S,0,1,2,41,S14,6,S13,2,S76,1,S0,0
+Parabr. Furogi S,0,1,1,38,S67,2,S61,4,S33,-1,S27,4
+Protez. Furogi S,0,2,1,20,S67,2,S61,2,S33,-3,S27,4
+Parabr. Urukususu S,0,1,1,38,S55,4,S32,2,S39,-2,S90,3
+Protez. Urukususu S,0,2,1,20,S55,3,S32,2,S39,-3,S90,3
+Parabr. Qurupeco S,0,1,0,35,S37,5,S51,5,S87,1,S42,-2
+Protez. Qurupeco S,0,2,0,18,S37,5,S51,4,S87,1,S42,-3
+Parabr. Ludroth S,0,1,1,38,S58,3,S88,1,S4,5,S89,-2
+Protez. Ludroth S,0,2,1,20,S58,2,S88,2,S4,4,S89,-3
+Parabr. Barroth S,0,1,2,41,S14,1,S67,3,S30,-2,S32,3
+Protez. Barroth S,0,2,2,22,S19,1,S18,2,S30,-3,S32,3
+Parabr. Lingotto S,0,1,2,47,S46,1,S12,2,S13,4,S6,-2
+Protez. Lingotto S,0,2,2,26,S21,2,S24,2,S17,3,S6,-2
+Parabr. Baggi S,0,1,1,41,S32,2,S52,3,S39,-1,S42,5
+Protez. Baggi S,0,2,1,22,S32,1,S52,3,S39,-2,S42,5
+Parabr. Rangurotora S,0,1,2,41,S55,4,S63,1,S40,-1,S33,3
+Protez. Rangurotora S,0,2,2,22,S55,3,S22,1,S40,-2,S33,3
+Parabr. Rathian S,0,1,1,44,S7,3,S87,6,S8,1,S88,-1
+Protez. Rathian S,0,2,1,24,S7,3,S87,6,S8,1,S88,-1
+Parabr. Hapurubokka S,0,1,2,44,S61,4,S88,1,S98,3,S89,-1
+Protez. Hapurubokka S,0,2,2,24,S61,5,S88,1,S98,1,S89,-2
+Parabr. Gigginox S,0,1,0,44,S27,5,S41,5,S9,2,S53,-1
+Protez. Gigginox S,0,2,0,24,S27,5,S41,5,S23,1,S53,-2
+Parabr. Nargacuga S,0,1,1,47,S64,3,S55,3,S49,3,S58,-2
+Protez. Nargacuga S,0,2,1,26,S64,4,S55,1,S49,4,S58,-2
+Parabr. Barioth S,0,1,1,47,S55,1,S67,4,S90,5,S99,-1
+Protez. Barioth S,0,2,1,26,S55,1,S67,4,S90,4,S99,-2
+Parabr. Rathalos S,0,1,1,50,S94,3,S13,2,S52,-2,S87,4
+Protez. Rathalos S,0,2,1,28,S94,3,S74,1,S52,-3,S87,4
+Parabr. Uragaan S,0,1,0,50,S71,3,S65,3,S33,6,S40,-1
+Protez. Uragaan S,0,2,0,28,S20,2,S18,3,S33,5,S40,-3
+Parabr. Dober,0,1,3,50,S91,4,S55,1,S30,-1,S43,1
+Protez. Dober,0,2,3,28,S91,2,S55,2,S30,-2,S43,1
+Parabr. Jinouga S,0,1,0,53,S84,5,S89,2,S64,5,S49,-1
+Protez. Jinouga S,0,2,0,30,S84,2,S89,5,S64,4,S49,-2
+Parabr. Diablos S,0,1,2,53,S65,3,S98,1,S63,2,S27,-3
+Protez. Diablos S,0,2,2,30,S20,3,S22,2,S98,2,S27,-2
+Parabr. Tigrex S,0,1,2,53,S35,2,S58,1,S31,4,S34,-2
+Protez. Tigrex S,0,2,2,30,S35,2,S58,1,S31,3,S34,-3
+Parabr. Agnaktor S,0,1,1,53,S67,2,S9,2,S87,6,S88,-1
+Protez. Agnaktor S,0,2,1,30,S19,2,S87,5,S60,1,S88,-3
+Par. Doboruberuku S,0,1,2,53,S95,3,S32,2,S12,-2,S7,2
+Prot. Doboruberuku S,0,2,2,30,S95,3,S18,2,S12,-1,S7,3
+Parabr. Qurupeco U,0,1,3,38,S37,4,S61,1,S89,1,S90,-1
+Protez. Qurupeco U,0,2,3,20,S37,4,S61,1,S89,1,S90,-1
+Parabr. Ludroth U,0,1,1,41,S58,3,S27,5,S40,2,S41,-1
+Protez. Ludroth U,0,2,1,22,S58,2,S27,5,S40,1,S41,-3
+Parabr. Barroth U,0,1,3,44,S96,1,S33,4,S87,-1,S97,1
+Protez. Barroth U,0,2,3,24,S20,1,S90,1,S33,4,S87,-1
+Parabr. Gigginox U,0,1,3,47,S70,1,S97,1,S90,-3,S58,2
+Protez. Gigginox U,0,2,3,26,S70,2,S97,1,S90,-2,S58,2
+Parabr. Nargacuga U,0,1,2,50,S58,1,S99,5,S67,-1,S55,2
+Protez. Nargacuga U,0,2,2,28,S58,1,S99,4,S67,-2,S55,2
+Parabr. Barioth U,0,1,1,50,S64,5,S67,3,S49,2,S55,-1
+Protez. Barioth U,0,2,1,28,S64,3,S67,3,S49,3,S55,-2
+Parabr. Uragaan U,0,1,2,53,S14,5,S99,1,S29,1,S43,-2
+Protez. Uragaan U,0,2,2,30,S21,1,S29,1,S43,-3,S17,4
+Parabr. Diablos U,0,1,1,56,S71,3,S96,3,S97,3,S91,-2
+Protez. Diablos U,0,2,1,32,S18,5,S17,4,S22,1,S91,-1
+Parabr. Tigrex U,0,1,2,56,S35,1,S70,3,S51,3,S34,-2
+Protez. Tigrex U,0,2,2,32,S35,1,S70,1,S51,4,S34,-3
+Parabr. Agnaktor U,0,1,3,56,S14,1,S15,1,S87,-3,S40,2
+Protez. Agnaktor U,0,2,3,32,S17,1,S23,1,S87,-3,S40,2
+Parabr. Luna Dorata,0,1,0,56,S95,4,S34,2,S50,5,S41,-2
+Protez. Luna Dorata,0,2,0,32,S95,3,S34,3,S50,4,S41,-3
+Parabr. Sole Argent.,0,1,3,56,S94,2,S9,1,S32,2,S7,-2
+Protez. Sole Argent.,0,2,3,32,S94,2,S19,1,S32,2,S7,-2
+Parabr. Vangis,0,1,2,59,S10,2,S61,5,S42,1,S9,-1
+Protez. Vangis,0,2,2,34,S59,3,S61,4,S42,1,S18,-1
+Parabr. Ranger,0,1,0,47,S62,3,S12,4,S52,2,S50,-4
+Protez. Ranger,0,2,0,26,S62,3,S12,3,S52,4,S50,-3
+Parabr. Gilda S,1,1,2,44,S68,2,S69,1,S37,4,S50,-2
+Protez. Gilda S,1,2,2,24,S68,2,S69,2,S37,3,S50,-2
+Parabr. Scalati S,2,1,2,44,S68,2,S69,1,S37,4,S50,-2
+Protez. Scalate S,2,2,2,24,S68,2,S69,2,S37,3,S50,-2
+Parabr. Halloween S,1,1,2,32,S70,2,S55,2,S66,3,S14,-2
+Parabr. Halloween S,2,1,2,32,S70,2,S55,2,S66,3,S14,-2
+Protez. Halloween S,1,2,2,16,S70,2,S55,1,S66,4,S60,-2
+Protez. Halloween S,2,2,2,16,S70,2,S55,1,S66,4,S60,-2
+Parabr. Vaiku S,0,1,1,38,S9,3,S98,3,S88,4,S13,-1
+Protez. Vaiku S,0,2,1,20,S19,4,S98,1,S88,4,S17,-2
+Parabr. Necrologio S,1,1,1,44,S35,3,S12,2,S41,3,S34,-3
+Protez. Necrologio S,1,2,1,24,S35,2,S12,2,S41,4,S34,-3
+Parabr. Contadino S,2,1,1,44,S35,3,S12,2,S41,3,S34,-3
+Protez. Contadino S,2,2,1,24,S35,2,S12,2,S41,4,S34,-3
+Parabr. Arrugginiti S,0,1,1,47,S11,5,S15,1,S13,-5,S0,0
+Protez. Arrugginite S,0,2,1,26,S74,1,S18,5,S17,-5,S0,0
+Parabr. Bocciolo,0,1,1,38,S37,2,S51,4,S69,4,S1,-1
+Protez. Fiore,0,2,1,20,S37,4,S51,4,S69,1,S1,-2
+Parabr. Damascus,0,1,1,59,S10,4,S89,4,S13,2,S9,-1
+Protez. Damascus,0,2,1,34,S59,4,S21,1,S89,5,S18,-1
+Par. Yamato Supremo,1,1,2,59,S70,2,S11,3,S12,2,S8,-2
+Prot. Mutsu Supremo,1,2,2,34,S70,3,S20,1,S12,2,S8,-3
+Par. Hinata Supremo,2,1,2,59,S70,2,S11,3,S12,2,S8,-2
+Par. Amagi Supremo,2,2,2,34,S70,3,S20,1,S12,2,S8,-3
+Parabr. Akantor,0,1,3,62,S95,1,S35,2,S87,2,S34,-2
+Protez. Akantor,0,2,3,36,S95,2,S35,2,S87,1,S34,-2
+Parabr. Ukanlos,0,1,0,62,S94,1,S90,7,S70,-3,S9,2
+Protez. Ukanlos,0,2,0,36,S94,2,S90,6,S70,-3,S19,2
+Parabr. Escadora,0,1,2,62,S28,3,S72,1,S64,4,S56,-1
+Protez. Escadora,0,2,2,36,S28,2,S72,1,S64,4,S56,-2
+Parabr. Tempesta,0,1,0,62,S84,5,S10,2,S88,5,S61,-1
+Protez. Tempesta,0,2,0,36,S84,5,S59,2,S88,5,S61,-1
+Parabr. Yuami Sup.,0,0,2,24,S50,4,S57,2,S32,-3,S0,0
+Parabr. Tre Occhi,0,0,3,14,S0,0,S0,0,S0,0,S0,0
+Parabr. da Pirata J,0,1,0,26,S62,2,S50,4,S68,3,S34,-4
+Protez. da Pirata J,0,2,0,13,S62,2,S50,3,S68,4,S34,-4
+Parabr. di Snake,1,1,2,47,S70,2,S67,3,S66,2,S30,-2
+Protez. di Snake,1,2,1,26,S59,4,S60,3,S66,2,S30,-2
+Parabr. di The Boss,2,1,2,47,S49,2,S70,2,S51,4,S28,-1
+Protez. di The Boss,2,2,1,26,S49,2,S59,3,S51,3,S28,-3
+Parabr. UNIQLO,0,1,2,47,S35,2,S64,3,S45,2,S61,-2
+Protez. UNIQLO,0,2,2,26,S35,2,S64,3,S45,2,S61,-2

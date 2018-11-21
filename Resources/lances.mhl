@@ -1,0 +1,97 @@
+-
+Lancia Yukumo Antica,0,50,raw,0,yellowsharp
+Lancia Yukumo,0,70,raw,0,yellowsharp
+Lancia Yukumo+,0,90,raw,0,yellowsharp
+Aculeo Yukumo,0,130,raw,0,greensharp
+Lancia da Battaglia,3,120,raw,0,greensharp
+Lancia Grido da Batt.,3,180,raw,0,bluesharp
+Lancia di Ferro,0,80,raw,0,yellowsharp
+Lancia di Ferro,0,100,raw,0,greensharp
+Lancia d'Acciaio,0,130,raw,0,greensharp
+Lancia da Paladino,0,140,defense 8,0,greensharp
+Lancia da Paladino+,0,160,defense 12,0,greensharp
+Lancia del Guerriero,2,180,raw,0,greensharp
+Lancia Millenaria,2,210,raw,0,bluesharp
+Babele,1,190,defense 16,0,greensharp
+Babele+,2,200,defense 20,0,bluesharp
+Babele Perduta,2,210,defense 24,0,bluesharp
+Zanna di Gelo,0,130,ice 16,15,greensharp
+Zanna di Gelo+,1,140,ice 22,20,greensharp
+Zanna Sciabola,2,180,ice 27,25,greensharp
+Aculeo Nascosto,0,150,raw,30,greensharp
+Notte Oscura,2,180,raw,40,greensharp
+Lancia Tigrex,0,170,raw,-25,bluesharp
+Lancia Tigrex+,0,180,raw,-25,bluesharp
+Urlo di Tigre,0,220,raw,-15,whitesharp
+Lancia Tigre Nera,2,200,raw,-20,bluesharp
+Lancia Morso Nero,2,230,raw,-30,bluesharp
+Lancia Trivella,0,140,raw,5,greensharp
+Mega-Lancia Trivella,0,180,raw,10,greensharp
+Giga-Lancia Trivella,1,200,raw,15,bluesharp
+Lungocorno,0,90,raw,0,yellowsharp
+Lungocorno+,0,110,raw,0,greensharp
+Zanna Lunga,0,140,raw,0,greensharp
+Lancia Diablos,0,180,raw,-5,greensharp
+Lancia Diablos+,0,200,raw,-10,greensharp
+Corno di Diablos,1,230,raw,-15,bluesharp
+Tempesta Nera,1,240,raw,-30,bluesharp
+Lancia d'Osso Duro,1,200,raw,0,greensharp
+Lancia d'Osso Duro+,1,230,raw,0,greensharp
+Lancia Doboruberuku,0,180,defense 14,0,greensharp
+Lancia Montagna,0,220,defense 20,0,bluesharp
+Coda Rossa,1,160,fire 18,0,greensharp
+Inferno,1,180,fire 20,0,greensharp
+Lancia di Prominenza,1,200,fire 24,0,bluesharp
+Ploshasta,0,100,raw,0,yellowsharp
+Rhenohasta,0,130,raw,0,yellowsharp
+Lancia Brutale,1,150,raw,-15,greensharp
+Lancia Brutale+,2,190,raw,-25,greensharp
+Lancia Barroth Aff.,2,220,raw,-25,bluesharp
+Spirale di Fuoco,0,140,fire 23,15,greensharp
+Spirale di Fuoco+,0,170,fire 26,20,bluesharp
+Spirale Fiammante,0,190,fire 28,25,bluesharp
+Spirale Acquatica,0,170,water 16,20,bluesharp
+Lancia Agna Acquat.,0,200,water 20,25,bluesharp
+Cresta Azzurra,0,120,sleep 15,0,greensharp
+Cresta Azzurra+,0,140,sleep 20,0,greensharp
+Azzurro Profondo,0,160,sleep 25,0,bluesharp
+Lancia Osso Ludroth,0,110,raw,0,yellowsharp
+Lancia Spirale,1,120,water 11,0,greensharp
+Lancia Spirale+,1,160,water 18,0,greensharp
+Spruzzo Spirale,2,180,water 25,0,bluesharp
+Spirale Velenosa,2,180,poison 15,0,bluesharp
+Spirale Tossica,2,200,poison 20,0,bluesharp
+Giavellotto d'Ombra,1,130,poison 20,0,greensharp
+Giavellotto d'Ombra+,1,170,poison 24,0,greensharp
+Giavellotto Tossico,1,190,poison 29,0,bluesharp
+Lancia Selvaggia,0,120,raw,0,yellowsharp
+Lancia Selvaggia+,0,170,raw,0,yellowsharp
+Asta Bulldrome,2,200,raw,0,greensharp
+Lancia di Sofferenza,0,180,dragon 10,5,bluesharp
+Torre Demoniaca,1,210,dragon 15,10,bluesharp
+Cratere Blu,1,130,raw,0,greensharp
+Cratere Cobalto,2,140,raw,0,greensharp
+Corona del Destino,3,190,raw,0,bluesharp
+Lancia Arugginita,0,100,raw,-70,orangesharp
+Lancia Ossidata,0,100,raw,-70,yellowsharp
+Becchino,0,150,dragon 19,0,greensharp
+Becchino Superiore,0,180,dragon 21,0,bluesharp
+Asta Consunta,0,110,raw,-70,greensharp
+Asta Erosa,0,110,raw,-70,greensharp
+Grattacielo,2,200,dragon 24,-5,greensharp
+Aculeo Paralizzante,0,70,paralysis 14,0,yellowsharp
+Aculeo Paralizzante+,0,100,paralysis 18,0,greensharp
+Grande Aculeo,0,120,paralysis 22,0,greensharp
+Squalo Principe,2,100,raw,10,greensharp
+Squalo Re,2,150,raw,15,bluesharp
+Vera Lancia Yukumo,0,160,raw,0,greensharp
+Vera Lancia Yukumo+,0,190,raw,0,greensharp
+Lancia Yukumo Div.,0,210,raw,0,bluesharp
+Lancia del Re,1,160,thunder 18,0,greensharp
+Lancia Fulmine Reg.,1,210,thunder 22,0,bluesharp
+Lancia del male,0,240,water 14,-20,bluesharp
+Calamità Ukanlos,0,250,ice 16 defense 15,-20,greensharp
+Lancia di Alatreon,1,170,dragon 26,0,bluesharp
+Bagliore di Alatreon,1,190,dragon 28,0,whitesharp
+Lancia Brain Fox,1,150,fire 21,0,greensharp
+Lancia Red Fox,2,190,fire 25,0,bluesharp

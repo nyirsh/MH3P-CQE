@@ -1,0 +1,210 @@
+
+Veleno Annull.,S1,10
+Veleno Raddop.,S1,-10
+Paralisi Annull,S2,10
+Paralisi Raddop,S2,-10
+Sonno Annullato,S3,10
+Sonno Raddop.,S3,-10
+KO Dimezzato,S4,10
+KO Annullato,S4,15
+KO Raddoppiato,S4,-10
+Neve-Fango Ann.,S5,10
+Furtivo,S6,10
+Provocazione,S6,-10
+Salute +20,S7,10
+Salute +50,S7,15
+Salute -10,S7,-10
+Salute -30,S7,-15
+Vel. Recup. +1,S8,10
+Vel. Recup. +2,S8,15
+Vel. Recup. -1,S8,-10
+Vel. Recup. -2,S8,-15
+Lama Affilata,S9,10
+Lama Smussata,S9,-10
+Acutezza +1,S10,15
+ESP,S11,10
+Ferv.Sconsid +1,S12,10
+Ferv.Sconsid +2,S12,15
+Ferv.Sconsid +3,S12,20
+Ferv.Sconsid -1,S12,-10
+Ferv.Sconsid -2,S12,-15
+Ferv.Sconsid -3,S12,-20
+Aff. Rapida,S13,10
+Aff. Lenta,S13,-10
+Guardia+1,S14,10
+Guardia+2,S14,15
+Guardia-1,S14,-10
+Guardia Aum,S15,10
+Auto-Guardia,S16,10
+Vel.Ricarica +1,S17,10
+Vel.Ricarica +2,S17,15
+Vel.Ricarica +3,S17,20
+Vel.Ricarica -1,S17,-10
+Vel.Ricarica -2,S17,-15
+Vel.Ricarica -3,S17,-20
+Rinculo +1,S18,10
+Rinculo +2,S18,15
+Rinculo +3,S18,20
+Rinculo -1,S18,-10
+Rinculo -2,S18,-15
+Rinculo -3,S18,-20
+PNorm/Rap Aum,S19,10
+PPerf/Perf Aum,S20,10
+PPall/Grap Aum,S21,10
+P Normali Agg,S22,10
+P Perf LV1 Agg,S23,10
+Tutt P Perf Agg,S23,15
+P Pall LV1 Agg,S24,10
+Tutt P Pall Agg,S24,15
+P Picc LV1 Agg,S25,10
+Tutt P Picc Agg,S25,15
+P Grap LV1 Agg,S26,10
+Tutt P Grap Agg,S26,15
+Att. Status +1,S27,10
+Att. Status +2,S27,15
+Att. Status Dim,S27,-10
+Att.Element Aum,S28,10
+Att.Element Dim,S28,-10
+Bombardiere,S29,10
+Fame Dimezzata,S30,10
+Fame Annullata,S30,15
+Fame Aum [Pcc],S30,-10
+Fame Aum [Gr],S30,-15
+Riempito,S31,10
+Mangione,S31,15
+Att. Aum [Pcc],S32,10
+Att. Aum [Med],S32,15
+Att. Aum [Gr],S32,20
+Att. Dim [Pcc],S32,-10
+Att. Dim [Med],S32,-15
+Att. Dim [Gr],S32,-20
+Difesa Aum [Pcc],S33,10
+Difesa Aum [Med],S33,15
+Difesa Aum [Gr],S33,20
+Difesa Dim [Pcc],S33,-10
+Difesa Dim [Med],S33,-15
+Difesa Dim [Gr],S33,-20
+Prot. Divina,S34,10
+Prot.Demoniaca,S34,-10
+Tappi Orecchie,S35,10
+Tappi Or.AltLiv,S35,15
+Antifurto,S36,10
+Ampia Area +1,S37,10
+Ampia Area +2,S37,20
+Viagg. Zaino,S38,10
+Res. Fuoco [Pcc],S39,10
+Res. Fuoco [Gr],S39,15
+Res. Fuoco Dim,S39,-10
+Res. Acqua [Pcc],S40,10
+Res. Acqua [Gr],S40,15
+Res. Acqua Dim,S40,-10
+Res. Tuono [Pcc],S41,10
+Res. Tuono [Gr],S41,15
+Res. Tuono Dim,S41,-10
+Res. Ghiac [Pcc],S42,10
+Res. Ghiac [Gr],S42,15
+Res. Ghiac.Dim,S42,-10
+Res. Drago [Pcc],S43,10
+Res. Drago [Gr],S43,15
+Deb. Drago Dim,S43,-10
+Caldo Annullato,S44,10
+Caldo Aumentato,S44,-10
+Freddo Annull.,S45,10
+Freddo Aument.,S45,-10
+Res. Vento,S46,10
+Anti Vento,S46,15
+Raccolta +1,S47,10
+Raccolta +2,S47,15
+Raccolta -1,S47,-10
+Raccolta Veloce,S48,10
+Capr.di Spirito,S49,10
+Capr. Divino,S49,15
+Capr.di Spettro,S49,-10
+Capr. Demoniaco,S49,-15
+Fortuna,S50,10
+Fortuna Aum,S50,15
+Sfortuna,S50,-10
+Calamità,S50,-15
+Individua,S51,10
+Autotracc.,S51,15
+Recupero Aum,S52,10
+Recupero Dim,S52,-10
+Combo +20%,S53,10
+Combo +45%,S53,15
+Combo -10%,S53,-10
+Combo -20%,S53,-15
+Esperto Combo,S54,10
+Evasione +1,S55,10
+Evasione +2,S55,15
+Schivata dim,S55,-10
+Adrenalina +1,S56,10
+Adrenalina +2,S56,15
+Inquietudine,S56,-10
+Uso ogg. Aum,S57,10
+Uso ogg. Dim,S57,-10
+Corridore,S58,10
+Piedi Piatti,S58,-10
+Capacità,S59,15
+Precisione +1,S60,10
+Precisione +2,S60,15
+Precisione -1,S60,-10
+Precisione -2,S60,-15
+Mangiarapido +1,S61,10
+Mangiarapido +2,S61,15
+Mangialento,S61,-10
+Esperto scalco,S62,10
+Res. Terremoto,S63,10
+Dist.EvasivaAum,S64,15
+Estr. Critica,S65,10
+Esperto Trap.,S66,10
+Costituzione +1,S67,10
+Costituzione +2,S67,15
+Costituzione -1,S67,-10
+Costituzione -2,S67,-15
+Esperto Premio,S68,10
+PremioCelebrità,S68,15
+Guru Tranquill.,S69,10
+Concentrazione,S70,10
+Distrazione,S70,-10
+Estr.Stordente,S71,10
+Dif.dim annull.,S72,10
+Forza d'animo,S73,10
+Colpo Rapido +1,S74,10
+Esp.Bomb.Letame,S75,10
+Antisettico,S76,10
+Fial.Veleno Agg,S77,10
+Fial.Paral. Agg,S78,10
+Fial.Sonno Agg,S79,10
+Fial.Attac. Agg,S80,10
+Fial.Taglio Agg,S81,10
+Esperto Flauti,S82,10
+Mestro Artigl.,S83,10
+Re Artigliere,S83,15
+Determinaz. +1,S84,10
+Determinaz. +2,S84,15
+Vita cacciator,S85,10
+Impudenza,S86,10
+Att. Fuoco +1,S87,10
+Att. Fuoco +2,S87,15
+Att. Fuoco Dim,S87,-10
+Att. Acqua +1,S88,10
+Att. Acqua +2,S88,15
+Att. Acqua Dim,S88,-10
+Att. Tuono +1,S89,10
+Att. Tuono +2,S89,15
+Att. Tuono Dim,S89,-10
+Att.Ghiaccio +1,S90,10
+Att.Ghiaccio +2,S90,15
+Att.Ghiacc. Dim,S90,-10
+Att. Drago +1,S91,10
+Att. Drago +2,S91,15
+Att. Drago Dim,S91,-10
+P Taglio Agg,S92,10
+P Fatica Agg,S93,10
+Sfruttatore,S94,10
+Rovina,S95,10
+Stordimento Aum,S96,10
+Succhia Stamina,S97,10
+Tecnica Rinfod.,S98,10
+Rec. Stam. Aum,S99,10
+Rec. Stam. Dim,S99,-10

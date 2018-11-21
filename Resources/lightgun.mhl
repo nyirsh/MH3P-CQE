@@ -1,0 +1,68 @@
+-
+Balstr Antica Yukumo,0,50,norapid,0,normalreload medrecoil nodeviation
+Balestra Yukumo,0,70,rapidnrmlv1,0,normalreload medrecoil nodeviation
+Fucile da Caccia,0,80,norapid,0,normalreload medrecoil nodeviation
+Balestra Yukumo+,0,90,rapidnrmlv1,0,normalreload medrecoil nodeviation
+Fuoco Jaggi,0,100,rapidpiercelv1,0,normalreload medrecoil nodeviation
+Anello del Ruggito,0,110,norapid,0,normalreload medrecoil nodeviation
+Fucile Caccia Modif.,0,100,rapidpelletlv1,0,normalreload medrecoil nodeviation
+Gusci di Zucca,2,120,rapidnrmlv2,0,normalreload medrecoil nodeviation
+Balestra Barroth,0,160,norapid,0,normalreload highrecoil rightdeviation
+Fuoco Jaggi+,0,120,rapidpiercelv1,10,normalreload medrecoil nodeviation
+Anello Ludroth,0,140,rapidwater,0,normalreload medrecoil nodeviation
+Balestra Blitz,0,130,rapidpelletlv1,0,normalreload medrecoil nodeviation
+Fuoco Bandito,1,140,rapidpiercelv1 rapidsleeplv1,10,normalreload medrecoil nodeviation
+Cascata Ludroth,0,150,rapidwater,0,normalreload medrecoil nodeviation
+Dono Veleno,1,160,rapidpoisonlv1,-10,quickreload lowrecoil rightdeviation
+Vampa Valchiria,0,150,rapidpelletlv1 rapidpelletlv2,0,normalreload medrecoil nodeviation
+Demonlock,2,130,rapidcraglv1,0,normalreload medrecoil nodeviation
+Balestra Zucca,2,150,rapidnrmlv2,0,normalreload medrecoil nodeviation
+Vera Balestra Yukumo,2,170,norapid,0,normalreload medrecoil nodeviation
+Balestra Barroth+,1,190,norapid,0,normalreload highrecoil rightdeviation
+Cannone di Ghiaccio,0,150,rapidice,20,quickreload medrecoil nodeviation
+Sguardo Nascosto,0,130,rapidpiercelv2,40,quickreload medrecoil nodeviation
+Collera di Fuoco,0,150,rapidfire,0,normalreload medrecoil nodeviation
+Balestra del Sovrano,1,160,rapidpelletlv2 rapidthunder rapidslicing,10,normalreload medrecoil nodeviation
+Dono Veleno+,1,180,rapidpoisonlv1 rapidpoisonlv2,-10,normalreload lowrecoil rightdeviation
+Collera di Fuoco+,0,170,rapidfire,0,normalreload medrecoil nodeviation
+Carro Arm. di Tigrex,0,180,rapidnrmlv2 rapidcraglv2,-20,normalreload medrecoil leftdeviation
+Balestra Beruku,1,180,rapidexhaustlv1,0,slowreload lowrecoil nodeviation
+Bollitore Tè Feline,0,130,rapidpoisonlv1 rapidparalysislv1 rapidsleeplv1,0,quickreload medrecoil nodeviation
+Balestra Beruku+,1,190,rapidexhaustlv1,0,slowreload lowrecoil nodeviation
+Spirito Yukumo,3,200,norapid,0,normalreload medrecoil nodeviation
+Bazooka Barroth,1,220,norapid,0,normalreload highrecoil rightdeviation
+Ira del Bandito,2,170,rapidpiercelv1 rapidsleeplv1,10,normalreload medrecoil nodeviation
+Alluvione Ludroth,0,190,rapidwater rapidpoisonlv1,0,normalreload medrecoil nodeviation
+Fucile Cacciatore,2,190,rapidpelletlv1,0,normalreload medrecoil nodeviation
+Fuoco Valchiria,0,190,rapidpelletlv1 rapidpelletlv2,0,normalreload medrecoil nodeviation
+Isola degli Dei,1,190,rapidnrmlv2 rapidcraglv1,0,veryquickreload lowrecoil nodeviation
+Gran Demonlock,2,180,rapidcraglv1,0,normalreload medrecoil nodeviation
+Gran Zucca,2,190,rapidnrmlv2,0,normalreload medrecoil nodeviation
+Chiarore di Aurora,1,240,norapid,0,normalreload highrecoil rightdeviation
+Diluvio Ludroth,0,220,rapidwater rapidpoisonlv1,0,normalreload medrecoil nodeviation
+Fucile da Cecchino,2,220,rapidpelletlv1,0,normalreload medrecoil nodeviation
+Eredità Veleno,1,210,rapidpoisonlv1 rapidpoisonlv2,-10,quickreload lowrecoil rightdeviation
+Eredità Tuono,1,190,rapidparalysislv1,-10,quickreload medrecoil leftdeviation
+Tormenta di Neve,0,190,rapidice,20,quickreload medrecoil nodeviation
+Tempesta di Neve,0,210,rapidice,20,veryquickreload medrecoil nodeviation
+Vampa Valchiria,0,200,rapidpelletlv1 rapidpelletlv2,0,normalreload medrecoil nodeviation
+Sguardo Nascosto+,0,170,rapidpiercelv2,40,quickreload medrecoil nodeviation
+Occhio Notturno,1,190,rapidpiercelv2,0,quickreload medrecoil nodeviation
+Pistola Drago Fuoco,0,190,rapidfire,0,normalreload medrecoil nodeviation
+Valanga,1,250,norapid,0,normalreload highrecoil rightdeviation
+Tormento eterno,1,220,rapidpoisonlv1 rapidpoisonlv2,-10,quickreload lowrecoil rightdeviation
+Cercatore Cremisi,1,210,rapidparalysislv1,-10,quickreload medrecoil leftdeviation
+Cannone di Fuoco,0,220,rapidfire,0,normalreload medrecoil nodeviation
+Imperatore del Tuono,1,220,rapidpelletlv2 rapidthunder rapidslicing,10,normalreload medrecoil nodeviation
+Balestra Anti Tigrex,0,240,rapidnrmlv2 rapidcraglv2,-20,normalreload medrecoil leftdeviation
+Carr Arm Tigrex Nero,0,220,rapidnrmlv2 rapidclusterlv1,-25,normalreload medrecoil rightdeviation
+Belk Tauras,1,220,rapidexhaustlv1,0,slowreload lowrecoil nodeviation
+Macchina Malefica,0,220,rapiddragon,5,normalreload medrecoil leftdeviation
+Balestra Divina,1,210,rapidnrmlv2 rapidcraglv1,10,veryquickreload lowrecoil nodeviation
+Felyne ChaganMan,0,150,rapidpoisonlv1 rapidparalysislv1 rapidsleeplv1,0,quickreload medrecoil nodeviation
+Prosperità,0,230,rapidpelletlv1 rapidpelletlv2 rapidpiercelv1,0,normalreload medrecoil nodeviation
+Balestra Ruggente,0,180,rapidnrmlv2 rapidclusterlv1,-20,normalreload medrecoil leftdeviation
+Balestra Alatreon,1,240,rapidexhaustlv1,0,slowreload lowrecoil nodeviation
+Balestr della Follia,0,240,rapiddragon,5,normalreload medrecoil leftdeviation
+Arco Fiamma Ukanlos,2,260,norapid,-30,slowreload lowrecoil leftdeviationrightdeviation
+Ago Mortale,1,210,rapidfire rapidwater rapidthunder rapidice,-10,normalreload medrecoil nodeviation
