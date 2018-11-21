@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectType>local</ProjectType>
+    <ProjectVersion>7.10.377</ProjectVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CCC33C89-5CAA-4C94-8F26-C018CC62AC96}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <AssemblyName>CQE</AssemblyName>
+    <OutputType>WinExe</OutputType>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkSubset>
+    </TargetFrameworkSubset>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace>CQE</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>CQE.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup />
+  <PropertyGroup>
+    <ApplicationIcon>Resources\Icon1.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <Compile Include="Challenge.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Challenge.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\BitmapToRegion.cs" />
+    <Compile Include="Classes\Configs.cs" />
+    <Compile Include="Classes\Language.cs" />
+    <Compile Include="Classes\Params.cs" />
+    <Compile Include="Classes\SHA1Class.cs" />
+    <Compile Include="Controls\MyListBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CreditsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreditsForm.Designer.cs">
+      <DependentUpon>CreditsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ConfigWizard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ConfigWizard.Designer.cs">
+      <DependentUpon>ConfigWizard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\IntroForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\IntroForm.Designer.cs">
+      <DependentUpon>IntroForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameData.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GameData.resx</DependentUpon>
+    </Compile>
+    <Compile Include="HelpBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HelpBox.Designer.cs">
+      <DependentUpon>HelpBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\LanguageDownloadForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\LanguageDownloadForm.Designer.cs">
+      <DependentUpon>LanguageDownloadForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MapForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MapForm.Designer.cs">
+      <DependentUpon>MapForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Datas\DataClass.cs" />
+    <Compile Include="MapResources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MapResources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Structures\StcArms.cs" />
+    <Compile Include="Structures\StcBeads.cs" />
+    <Compile Include="Structures\StcExerciseArmsSet.cs" />
+    <Compile Include="Structures\StcMonster.cs" />
+    <Compile Include="Structures\StcResourceGathering.cs" />
+    <Compile Include="Structures\StcResources.cs" />
+    <Compile Include="Structures\StcSkillStart.cs" />
+    <Compile Include="Structures\StcSymbolSet.cs" />
+    <Compile Include="Structures\StcWeapon.cs" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System" />
+    <Reference Include="System.Drawing" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="CQEForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CQEForm.Designer.cs">
+      <DependentUpon>CQEForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Forms\Updater.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Updater.Designer.cs">
+      <DependentUpon>Updater.cs</DependentUpon>
+    </Compile>
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Challenge.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Challenge.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CQEForm.resx">
+      <DependentUpon>CQEForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreditsForm.resx">
+      <DependentUpon>CreditsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ConfigWizard.resx">
+      <DependentUpon>ConfigWizard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GameData.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>GameData.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MapForm.resx">
+      <DependentUpon>MapForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MapResources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>MapResources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\aboutpic.png" />
+    <None Include="Resources\Axe.png" />
+    <None Include="Resources\Bow.png" />
+    <None Include="Resources\challenge.png" />
+    <Content Include="Resources\confirm.png" />
+    <None Include="Resources\DS.png" />
+    <Content Include="Resources\felyne.png" />
+    <None Include="Resources\Gauntlets.png" />
+    <None Include="Resources\Helm.png" />
+    <None Include="Resources\GL.png" />
+    <None Include="Resources\GS.png" />
+    <None Include="Resources\Hammer.png" />
+    <None Include="Resources\HBG.png" />
+    <None Include="Resources\HH.png" />
+    <Content Include="Resources\Icon1.ico" />
+    <Content Include="Resources\ItemIcon007b.png" />
+    <Content Include="Resources\ItemIcon062a.png" />
+    <None Include="Resources\Leggings.png" />
+    <None Include="Resources\Lance.png" />
+    <None Include="Resources\LBG.png" />
+    <Content Include="Resources\Logo.png" />
+    <None Include="Resources\LS.png" />
+    <Content Include="Resources\map.png" />
+    <None Include="Resources\SnS.png" />
+    <None Include="Resources\Waist.png" />
+    <None Include="Resources\Plate.png" />
+    <None Include="Resources\Map_Volcano.png" />
+    <None Include="Resources\Map_Tundra.png" />
+    <None Include="Resources\Map_SmallLandArena.png" />
+    <None Include="Resources\Map_SandyPlains.png" />
+    <None Include="Resources\Map_SacredLand.png" />
+    <None Include="Resources\Map_PolarZone.png" />
+    <None Include="Resources\Map_MountainSummit.png" />
+    <None Include="Resources\Map_MountainStream.png" />
+    <None Include="Resources\Map_LavaCanyon.png" />
+    <None Include="Resources\Map_LandArena.png" />
+    <None Include="Resources\Map_GreatDesert.png" />
+    <None Include="Resources\Map_FloodedForest.png" />
+    <None Include="Resources\Map_DesertedIsland.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="bin\Debug\axes.mhl" />
+    <None Include="bin\Debug\bows.mhl" />
+    <None Include="bin\Debug\dualswords.mhl" />
+    <None Include="bin\Debug\greatswords.mhl" />
+    <None Include="bin\Debug\gunlances.mhl" />
+    <None Include="bin\Debug\hammers.mhl" />
+    <None Include="bin\Debug\heavygun.mhl" />
+    <None Include="bin\Debug\horns.mhl" />
+    <None Include="bin\Debug\lances.mhl" />
+    <None Include="bin\Debug\lightgun.mhl" />
+    <None Include="bin\Debug\longswords.mhl" />
+    <None Include="bin\Debug\shieldandswords.mhl" />
+    <None Include="Properties\app.config" />
+    <None Include="Resources\Arms.mhl" />
+    <None Include="Resources\axes.mhl" />
+    <None Include="Resources\bows.mhl" />
+    <None Include="Resources\Decorations.mhl" />
+    <None Include="Resources\dualswords.mhl" />
+    <None Include="Resources\greatswords.mhl" />
+    <None Include="Resources\gunlances.mhl" />
+    <None Include="Resources\hammers.mhl" />
+    <None Include="Resources\heavygun.mhl" />
+    <None Include="Resources\Helms.mhl" />
+    <None Include="Resources\horns.mhl" />
+    <None Include="Resources\lances.mhl" />
+    <None Include="Resources\Legs.mhl" />
+    <None Include="Resources\lightgun.mhl" />
+    <None Include="Resources\longswords.mhl" />
+    <None Include="Resources\Plates.mhl" />
+    <None Include="Resources\shieldandswords.mhl" />
+    <None Include="Resources\SkillList.mhl" />
+    <None Include="Resources\Waists.mhl" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+</Project>
